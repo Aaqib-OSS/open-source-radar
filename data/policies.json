@@ -377,7 +377,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-08T12:32:14+00:00"
+    "scanned_at": "2026-11-15T13:23:52+00:00"
   },
   "AeneasVerif/aeneas": {
     "ai": "none",
@@ -1203,6 +1203,16 @@
     ],
     "scanned_at": "2026-10-25T19:42:30+00:00"
   },
+  "BloopAI/vibe-kanban": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      "AGENTS.md"
+    ],
+    "scanned_at": "2026-11-15T13:23:52+00:00"
+  },
   "BlueprintFramework/framework": {
     "ai": "none",
     "ai_file": null,
@@ -1604,7 +1614,7 @@
       "AI_POLICY.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-08T12:32:14+00:00"
+    "scanned_at": "2026-11-15T13:23:52+00:00"
   },
   "Clon1998/mobileraker": {
     "ai": "none",
@@ -1631,7 +1641,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-08T12:32:14+00:00"
+    "scanned_at": "2026-11-15T13:23:52+00:00"
   },
   "CodeEditApp/CodeEditSourceEditor": {
     "ai": "none",
@@ -1651,7 +1661,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-08T12:32:14+00:00"
+    "scanned_at": "2026-11-15T13:23:52+00:00"
   },
   "CollaboraOnline/online": {
     "ai": "policy",
@@ -1661,7 +1671,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-08T12:32:14+00:00"
+    "scanned_at": "2026-11-15T13:23:52+00:00"
   },
   "CollapseLauncher/Collapse": {
     "ai": "none",
@@ -3514,7 +3524,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-08T12:32:15+00:00"
+    "scanned_at": "2026-11-15T13:23:53+00:00"
   },
   "HaschekSolutions/pictshare": {
     "ai": "none",
@@ -8170,7 +8180,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-07T21:35:42+00:00"
+    "scanned_at": "2026-11-15T13:23:53+00:00"
   },
   "TNG/ArchUnit": {
     "ai": "none",
@@ -9023,8 +9033,11 @@
     "ai_file": null,
     "cla": false,
     "dco": false,
-    "files": [],
-    "scanned_at": "2026-11-08T12:32:15+00:00"
+    "files": [
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-15T13:23:53+00:00"
   },
   "Vita3K/Vita3K": {
     "ai": "none",
@@ -9034,7 +9047,7 @@
     "files": [
       ".github/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-08T12:32:15+00:00"
+    "scanned_at": "2026-11-15T13:23:53+00:00"
   },
   "Volmarg/personal-management-system": {
     "ai": "none",
@@ -9063,7 +9076,7 @@
       ".github/CONTRIBUTING.md",
       ".github/pull_request_template.md"
     ],
-    "scanned_at": "2026-11-08T12:32:15+00:00"
+    "scanned_at": "2026-11-15T13:23:53+00:00"
   },
   "WEIFENG2333/VideoCaptioner": {
     "ai": "none",
@@ -17065,7 +17078,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-07T21:35:42+00:00"
+    "scanned_at": "2026-11-15T13:23:53+00:00"
   },
   "doyensec/inql": {
     "ai": "none",
@@ -19561,7 +19574,7 @@
     "files": [
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-08T12:32:17+00:00"
+    "scanned_at": "2026-11-15T13:23:55+00:00"
   },
   "frappe/crm": {
     "ai": "none",
@@ -19582,7 +19595,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-08T12:32:17+00:00"
+    "scanned_at": "2026-11-15T13:23:55+00:00"
   },
   "frappe/helpdesk": {
     "ai": "none",
@@ -19592,7 +19605,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-08T12:32:17+00:00"
+    "scanned_at": "2026-11-15T13:23:55+00:00"
   },
   "freeCodeCamp/devdocs": {
     "ai": "none",
@@ -19603,7 +19616,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-11-08T12:32:17+00:00"
+    "scanned_at": "2026-11-15T13:23:55+00:00"
   },
   "freeCodeCamp/freeCodeCamp": {
     "ai": "none",
@@ -20140,7 +20153,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-08T12:32:17+00:00"
+    "scanned_at": "2026-11-15T13:23:55+00:00"
   },
   "ggobi/ggally": {
     "ai": "none",
@@ -23638,6 +23651,16 @@
     "dco": false,
     "files": [],
     "scanned_at": "2026-10-22T10:42:37+00:00"
+  },
+  "jesseduffield/lazydocker": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-15T13:23:55+00:00"
   },
   "jestjs/jest": {
     "ai": "none",
@@ -28370,7 +28393,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-03T13:38:49+00:00"
+    "scanned_at": "2026-11-15T13:23:56+00:00"
   },
   "modelcontextprotocol/typescript-sdk": {
     "ai": "restricted",
@@ -31304,7 +31327,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-08T12:32:17+00:00"
+    "scanned_at": "2026-11-15T13:23:56+00:00"
   },
   "orchestr7/ktoml": {
     "ai": "none",
@@ -34932,7 +34955,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T22:22:27+00:00"
+    "scanned_at": "2026-11-15T13:23:56+00:00"
   },
   "rubytoolbox/rubytoolbox": {
     "ai": "none",
@@ -35945,6 +35968,19 @@
       "CONTRIBUTING.md"
     ],
     "scanned_at": "2026-11-10T23:06:13+00:00"
+  },
+  "serveroshq/panel": {
+    "ai": "policy",
+    "ai_file": ".github/AI_POLICY.md",
+    "cla": true,
+    "dco": false,
+    "files": [
+      ".github/AI_POLICY.md",
+      ".github/CONTRIBUTING.md",
+      ".github/pull_request_template.md",
+      "AGENTS.md"
+    ],
+    "scanned_at": "2026-11-15T13:23:56+00:00"
   },
   "serverpod/serverpod": {
     "ai": "none",
@@ -37594,7 +37630,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T11:22:23+00:00"
+    "scanned_at": "2026-11-15T13:23:56+00:00"
   },
   "supabase/supabase-kt": {
     "ai": "none",
@@ -41348,7 +41384,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T21:03:07+00:00"
+    "scanned_at": "2026-11-15T13:23:56+00:00"
   },
   "wintercms/winter": {
     "ai": "none",
