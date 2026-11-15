@@ -1,10 +1,10 @@
 # C++ issues
 
-**322** open issues (115 labeled for beginners) across **100** active C++ projects.
+**318** open issues (113 labeled for beginners) across **100** active C++ projects.
 
 [C++ quickstart](../../languages/cpp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-11-15 13:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-15 22:33 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,11 +14,10 @@
 | --- | --- | ---: | --- | --- | --- |
 | [Current page zoom displays in new tab dialouge](https://github.com/zen-browser/desktop/issues/16616) 💬 1 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 45.8k | 🟢 beginner | 2026-11-15 |  |
 | [Wayland: Copy and paste issue](https://github.com/FreeCAD/FreeCAD/issues/15198) 💬 32 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.5k | 🟡 help wanted | 2026-11-15 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
-| [Sketcher: newly created external geometry left behind after cancelling most dim tools](https://github.com/FreeCAD/FreeCAD/issues/34415) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.5k | 🟢 beginner | 2026-11-15 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [TechDraw: QGIViewDimension unreadable technical debt (needs refactor)](https://github.com/FreeCAD/FreeCAD/issues/16400) 💬 16 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.5k | 🟡 help wanted | 2026-11-15 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
-| [Consolidate tar extract build/read logic into a single source of truth](https://github.com/valhalla/valhalla/issues/6514) 💬 5 | [valhalla/valhalla](https://github.com/valhalla/valhalla) | 6.5k | 🟢 beginner | 2026-11-15 | 📄 AI policy · [📘 guide](https://github.com/valhalla/valhalla/blob/HEAD/CONTRIBUTING.md) |
+| [Sequential download option in GUI](https://github.com/transmission/transmission/issues/7370) 💬 11 | [transmission/transmission](https://github.com/transmission/transmission) | 15.4k | 🟡 help wanted | 2026-11-15 | [📘 guide](https://github.com/transmission/transmission/blob/HEAD/CONTRIBUTING.md) |
+| [≥1 s delay reopening the main window after it is closed by unfocusing (KDE Plasma?)](https://github.com/hluk/CopyQ/issues/3634) 💬 16 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-11-15 |  |
 | [macOS 27.2: crash (EXC_BREAKPOINT) in QImage::toCGImage when hovering the toolbar handle (Qt 6.11.1, QTBUG-14…](https://github.com/hluk/CopyQ/issues/3785) | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-11-14 |  |
-| [≥1 s delay reopening the main window after it is closed by unfocusing (KDE Plasma?)](https://github.com/hluk/CopyQ/issues/3634) 💬 16 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-11-14 |  |
 | [Complexity measure needs to be able to present smaller values](https://github.com/google/benchmark/issues/462) 💬 4 | [google/benchmark](https://github.com/google/benchmark) | 10.5k | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/google/benchmark/blob/HEAD/CONTRIBUTING.md) |
 | [Selected color is not a distinct color, making selection hard to read sometimes, lets change it](https://github.com/f3d-app/f3d/issues/3675) 💬 1 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5.1k | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
 | [Sketcher: Trim does not work with an external line and a circle](https://github.com/FreeCAD/FreeCAD/issues/24238) 💬 15 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.5k | 🟢 beginner | 2026-11-13 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
@@ -27,7 +26,6 @@
 | [Show a selector dialog when opening multi-binary containers (APK, fat Mach-O, etc.)](https://github.com/rizinorg/cutter/issues/3675) 💬 3 | [rizinorg/cutter](https://github.com/rizinorg/cutter) | 20.2k | 🟢 beginner | 2026-11-12 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/cutter/blob/HEAD/CONTRIBUTING.md) |
 | [Color correction](https://github.com/wled/WLED/issues/3697) 💬 11 | [wled/WLED](https://github.com/wled/WLED) | 19.1k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · [📘 guide](https://github.com/wled/WLED/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\]: \[Help Wanted\] Test for NCCL Determinism Guarantees](https://github.com/NVIDIA/nccl/issues/2588) 💬 1 | [NVIDIA/nccl](https://github.com/NVIDIA/nccl) | 5.2k | 🟡 help wanted | 2026-11-12 | 🔏 DCO · [📘 guide](https://github.com/NVIDIA/nccl/blob/HEAD/CONTRIBUTING.md) |
-| [Audio capture passes silent packets at start](https://github.com/chromiumembedded/cef/issues/3242) 💬 2 | [chromiumembedded/cef](https://github.com/chromiumembedded/cef) | 4.9k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · [📘 guide](https://github.com/chromiumembedded/cef/blob/HEAD/CONTRIBUTING.md) |
 | [Explorer background context menu option missing](https://github.com/microsoft/terminal/issues/10119) 💬 37 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.4k | 🟡 help wanted | 2026-11-11 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [Material: SIGABRT after Tab in 3D array editor (when compiled in debug mode) due to: 'libc++abi: terminating…](https://github.com/FreeCAD/FreeCAD/issues/15896) 💬 12 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.5k | 🟢 beginner | 2026-11-11 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [RBAC for UDP](https://github.com/envoyproxy/envoy/issues/11656) 💬 8 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.2k | 🟡 help wanted | 2026-11-11 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
@@ -166,7 +164,6 @@
 | [Replace UTF code](https://github.com/zeek/zeek/issues/1756) 💬 9 | [zeek/zeek](https://github.com/zeek/zeek) | 8.2k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use · [📘 guide](https://github.com/zeek/zeek/blob/HEAD/CONTRIBUTING.md) |
 | [xtensa-lx106-elf-g++: bad CPU type in executable on a M2 Mac without rosetta emulation installed](https://github.com/esp8266/Arduino/issues/8725) 💬 10 | [esp8266/Arduino](https://github.com/esp8266/Arduino) | 16.7k | 🟡 help wanted | 2026-09-27 |  |
 | [CopyQ Creates a Blank Unclosable Window, Subsequently opens Second Window](https://github.com/hluk/CopyQ/issues/1228) 💬 13 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.6k | 🟡 help wanted | 2026-09-27 |  |
-| [Linux: 100% CPU when using external-message-pump with Version 84+](https://github.com/chromiumembedded/cef/issues/3002) 💬 8 | [chromiumembedded/cef](https://github.com/chromiumembedded/cef) | 4.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · [📘 guide](https://github.com/chromiumembedded/cef/blob/HEAD/CONTRIBUTING.md) |
 | [Launch size, Launch position should each have a "as current window" button](https://github.com/microsoft/terminal/issues/18390) 💬 3 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.4k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [dyanamic window state should support windows split with aero snap](https://github.com/TranslucentTB/TranslucentTB/issues/116) 💬 12 | [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | 20.8k | 🟡 help wanted | 2026-09-25 | [📘 guide](https://github.com/TranslucentTB/TranslucentTB/blob/HEAD/CONTRIBUTING.md) |
 | ["New page" settings not remembered](https://github.com/xournalpp/xournalpp/issues/1521) 💬 6 | [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) | 15.7k | 🟢 beginner | 2026-09-25 | [📘 guide](https://github.com/xournalpp/xournalpp/blob/HEAD/CONTRIBUTING.md) |
@@ -212,5 +209,8 @@
 | [Add Bluesky and Mastodon to the Edit Place screen](https://github.com/organicmaps/organicmaps/issues/10142) 💬 6 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 16k | 🟢 beginner | 2026-09-09 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
 | [Translate "more..."](https://github.com/organicmaps/organicmaps/issues/13214) 💬 1 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 16k | 🟢 beginner | 2026-09-09 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
 | [delay字段添加随机延迟功能，如pre_delay\[100,5000\],在100到5000ms之间随机延迟](https://github.com/MaaXYZ/MaaFramework/issues/1470) 💬 1 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) | 5.2k | 🟡 help wanted | 2026-09-09 |  |
+| [Signed releases](https://github.com/envoyproxy/envoy/issues/14076) 💬 19 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.2k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
+| [clang-tidy: enable performance-*](https://github.com/alibaba/zvec/issues/291) 💬 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.2k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
+| [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.2k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 322 on the website.
+Showing the 200 most recently updated. See all 318 on the website.

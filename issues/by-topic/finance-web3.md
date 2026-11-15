@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**45** open issues (22 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
+**44** open issues (21 labeled for beginners) across **10** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-11-15 13:29 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-15 22:33 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -11,7 +11,6 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [\[FEAT\] Add transactions from incoming SMS](https://github.com/flow-mn/flow/issues/673) 💬 7 | [flow-mn/flow](https://github.com/flow-mn/flow) | 515 | 🟡 help wanted | 2026-11-14 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
-| [QIF export from Quicken fails to import: "Unknown Detail Code: U"](https://github.com/actualbudget/actual/issues/9526) 💬 7 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 5 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.5k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Feat\] ios - native keyboard support](https://github.com/actualbudget/actual/issues/9449) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feat\] ios - faceid / passcode / biometrics](https://github.com/actualbudget/actual/issues/9444) | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.3k | 🟡 help wanted | 2026-11-07 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
