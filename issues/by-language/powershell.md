@@ -1,10 +1,10 @@
 # PowerShell issues
 
-**26** open issues (14 labeled for beginners) across **9** active PowerShell projects.
+**24** open issues (14 labeled for beginners) across **8** active PowerShell projects.
 
 [PowerShell quickstart](../../languages/powershell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/powershell.xml)
 
-> Updated automatically on **2026-11-18 00:40 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-18 14:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,12 +12,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [netcat@1.12: download failed](https://github.com/ScoopInstaller/Main/issues/8845) 💬 1 | [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) | 1.9k | 🟡 help wanted | 2026-11-17 |  |
-| [Support for other clouds](https://github.com/Euro-Office/DesktopEditors/issues/191) 💬 5 | [Euro-Office/DesktopEditors](https://github.com/Euro-Office/DesktopEditors) | 989 | 🟡 help wanted | 2026-11-16 |  |
+| [openutau@0.1.565: download failed](https://github.com/ScoopInstaller/Extras/issues/19410) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-18 |  |
+| [Support for other clouds](https://github.com/Euro-Office/DesktopEditors/issues/191) 💬 5 | [Euro-Office/DesktopEditors](https://github.com/Euro-Office/DesktopEditors) | 990 | 🟡 help wanted | 2026-11-16 |  |
 | [ida-free@8.4.240527: download failed](https://github.com/ScoopInstaller/Extras/issues/19346) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-15 |  |
 | [vncviewer@7.15.1: download failed](https://github.com/ScoopInstaller/Extras/issues/19345) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-12 |  |
 | [xcas@7_2025.07: download failed. download url is not up to date](https://github.com/ScoopInstaller/Extras/issues/19299) 💬 2 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-08 |  |
-| [\[Bug\]: ab\|apache@2.4.68 download fails with 401 Unauthorized from fossies.org](https://github.com/ScoopInstaller/Main/issues/8374) 💬 8 | [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) | 1.9k | 🟡 help wanted | 2026-11-07 |  |
 | [Scuba Apps: Support Dynamic Parameters - Part 11](https://github.com/cisagov/ScubaGear/issues/2539) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [ScubaPermissions helper: Support Dynamic Parameters - Part 9](https://github.com/cisagov/ScubaGear/issues/2537) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Power Platform Provider: Support Dynamic Parameters - Part 8](https://github.com/cisagov/ScubaGear/issues/2536) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
@@ -30,7 +29,6 @@
 | [Proposal: Create a new Defender policy to disable PowerShell access to inboxes from non-administrative users](https://github.com/cisagov/ScubaGear/issues/1418) 💬 2 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-28 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Entra section 7 policies can produce inaccurate results if two privileged users have the same name](https://github.com/cisagov/ScubaGear/issues/2541) 💬 1 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-27 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Enhance UpdateCachedConditionalAccessPolicyByName functional test helper to make Entra tests more resilient](https://github.com/cisagov/ScubaGear/issues/2191) 💬 4 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
-| [azure-ps modules and junction directories](https://github.com/ScoopInstaller/Main/issues/2272) 💬 3 | [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) | 1.9k | 🟡 help wanted | 2026-10-15 |  |
 | [\[Feature\] - Missing auditRuleInformation causes mismatch with monitoring tools](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline/issues/236) 💬 2 | [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) | 1.6k | 🟡 help wanted | 2026-10-07 |  |
 | [ScubaGear progress bar shows incorrect product count](https://github.com/cisagov/ScubaGear/issues/1893) 💬 2 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Investigate Rego policy evaluation via WASM](https://github.com/cisagov/ScubaGear/issues/891) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
