@@ -4,7 +4,7 @@
 
 [PowerShell quickstart](../../languages/powershell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/powershell.xml)
 
-> Updated automatically on **2026-11-17 15:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-18 00:40 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [netcat@1.12: download failed](https://github.com/ScoopInstaller/Main/issues/8845) 💬 1 | [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) | 1.9k | 🟡 help wanted | 2026-11-17 |  |
-| [Support for other clouds](https://github.com/Euro-Office/DesktopEditors/issues/191) 💬 5 | [Euro-Office/DesktopEditors](https://github.com/Euro-Office/DesktopEditors) | 982 | 🟡 help wanted | 2026-11-16 |  |
+| [Support for other clouds](https://github.com/Euro-Office/DesktopEditors/issues/191) 💬 5 | [Euro-Office/DesktopEditors](https://github.com/Euro-Office/DesktopEditors) | 989 | 🟡 help wanted | 2026-11-16 |  |
 | [ida-free@8.4.240527: download failed](https://github.com/ScoopInstaller/Extras/issues/19346) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-15 |  |
 | [vncviewer@7.15.1: download failed](https://github.com/ScoopInstaller/Extras/issues/19345) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-12 |  |
 | [xcas@7_2025.07: download failed. download url is not up to date](https://github.com/ScoopInstaller/Extras/issues/19299) 💬 2 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-08 |  |
