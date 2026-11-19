@@ -14216,6 +14216,18 @@
     ],
     "scanned_at": "2026-11-17T15:14:05+00:00"
   },
+  "cheaper-inference/OmniRoute": {
+    "ai": "policy",
+    "ai_file": "CONTRIBUTING.md",
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/pull_request_template.md",
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-19T00:07:17+00:00"
+  },
   "checkstyle/checkstyle": {
     "ai": "none",
     "ai_file": null,
@@ -17008,7 +17020,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-11T13:28:53+00:00"
+    "scanned_at": "2026-11-19T00:07:17+00:00"
   },
   "dotnet/runtime": {
     "ai": "none",
@@ -19456,6 +19468,17 @@
       "CONTRIBUTING.md"
     ],
     "scanned_at": "2026-10-27T11:00:29+00:00"
+  },
+  "forem/forem": {
+    "ai": "policy",
+    "ai_file": "AGENTS.md",
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/PULL_REQUEST_TEMPLATE.md",
+      "AGENTS.md"
+    ],
+    "scanned_at": "2026-11-19T00:07:17+00:00"
   },
   "fork-commit-merge/fork-commit-merge": {
     "ai": "none",
@@ -38208,7 +38231,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-27T11:23:01+00:00"
+    "scanned_at": "2026-11-19T00:07:17+00:00"
   },
   "taffybar/taffybar": {
     "ai": "none",
@@ -39158,10 +39181,13 @@
   "tonhowtf/omniget": {
     "ai": "none",
     "ai_file": null,
-    "cla": false,
-    "dco": false,
-    "files": [],
-    "scanned_at": "2026-09-26T10:48:35+00:00"
+    "cla": true,
+    "dco": true,
+    "files": [
+      ".github/pull_request_template.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-19T00:07:17+00:00"
   },
   "toon-format/toon": {
     "ai": "none",
@@ -39916,7 +39942,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T11:24:57+00:00"
+    "scanned_at": "2026-11-19T00:07:17+00:00"
   },
   "ublue-os/ucore": {
     "ai": "none",

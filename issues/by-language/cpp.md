@@ -1,10 +1,10 @@
 # C++ issues
 
-**315** open issues (118 labeled for beginners) across **100** active C++ projects.
+**313** open issues (116 labeled for beginners) across **100** active C++ projects.
 
 [C++ quickstart](../../languages/cpp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-11-18 14:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-19 00:14 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -16,6 +16,7 @@
 | [Sketcher: Trim does not work with an external line and a circle](https://github.com/FreeCAD/FreeCAD/issues/24238) 💬 16 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.6k | 🟢 beginner | 2026-11-18 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [TechDraw: QGIViewDimension unreadable technical debt (needs refactor)](https://github.com/FreeCAD/FreeCAD/issues/16400) 💬 17 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.6k | 🟡 help wanted | 2026-11-18 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
 | [Support Falco running with sandboxed runtimes](https://github.com/falcosecurity/falco/issues/1413) 💬 61 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | 9.6k | 🟡 help wanted | 2026-11-18 |  |
+| [linux: GetBounds doesn't consider window decoration. SetBounds does.](https://github.com/chromiumembedded/cef/issues/3477) 💬 1 | [chromiumembedded/cef](https://github.com/chromiumembedded/cef) | 4.9k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · [📘 guide](https://github.com/chromiumembedded/cef/blob/HEAD/CONTRIBUTING.md) |
 | [Linux: 100% CPU when using external-message-pump with Version 84+](https://github.com/chromiumembedded/cef/issues/3002) 💬 9 | [chromiumembedded/cef](https://github.com/chromiumembedded/cef) | 4.9k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · [📘 guide](https://github.com/chromiumembedded/cef/blob/HEAD/CONTRIBUTING.md) |
 | [Continued issues with the shell extension](https://github.com/microsoft/terminal/issues/14185) 💬 48 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.4k | 🟡 help wanted | 2026-11-17 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
 | [Modify autotest to notify Discord when run is complete](https://github.com/ArduPilot/ardupilot/issues/14438) 💬 3 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16.4k | 🟢 beginner | 2026-11-16 | 🤖 disclose AI use · [📘 guide](https://github.com/ArduPilot/ardupilot/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -32,7 +33,6 @@
 | [Complexity measure needs to be able to present smaller values](https://github.com/google/benchmark/issues/462) 💬 4 | [google/benchmark](https://github.com/google/benchmark) | 10.5k | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/google/benchmark/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature request\] Capture a Scrolling Screenshot](https://github.com/flameshot-org/flameshot/issues/1130) 💬 25 | [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) | 31.6k | 🟡 help wanted | 2026-11-13 | [📘 guide](https://github.com/flameshot-org/flameshot/blob/HEAD/docs/CONTRIBUTING.md) |
 | [OpenVDB 14.0 implement proper cmake support, migrates to it](https://github.com/f3d-app/f3d/issues/3701) | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5.1k | 🟡 help wanted | 2026-11-13 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
-| [Show a selector dialog when opening multi-binary containers (APK, fat Mach-O, etc.)](https://github.com/rizinorg/cutter/issues/3675) 💬 3 | [rizinorg/cutter](https://github.com/rizinorg/cutter) | 20.2k | 🟢 beginner | 2026-11-12 | 🤖 disclose AI use · [📘 guide](https://github.com/rizinorg/cutter/blob/HEAD/CONTRIBUTING.md) |
 | [Color correction](https://github.com/wled/WLED/issues/3697) 💬 11 | [wled/WLED](https://github.com/wled/WLED) | 19.1k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · [📘 guide](https://github.com/wled/WLED/blob/HEAD/CONTRIBUTING.md) |
 | [Audio capture passes silent packets at start](https://github.com/chromiumembedded/cef/issues/3242) 💬 2 | [chromiumembedded/cef](https://github.com/chromiumembedded/cef) | 4.9k | 🟡 help wanted | 2026-11-12 | 🤖 disclose AI use · [📘 guide](https://github.com/chromiumembedded/cef/blob/HEAD/CONTRIBUTING.md) |
 | [Explorer background context menu option missing](https://github.com/microsoft/terminal/issues/10119) 💬 37 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.4k | 🟡 help wanted | 2026-11-11 | 🤖 disclose AI use · [📘 guide](https://github.com/microsoft/terminal/blob/HEAD/CONTRIBUTING.md) |
@@ -74,7 +74,6 @@
 | [Add "Dry-Run" Mode to Overload Manager](https://github.com/envoyproxy/envoy/issues/43409) 💬 7 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.3k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
 | [Incorrect behavior when viewing and collapsing statistics](https://github.com/organicmaps/organicmaps/issues/11775) 💬 3 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 16k | 🟢 beginner | 2026-11-03 | 🔏 DCO · [📘 guide](https://github.com/organicmaps/organicmaps/blob/HEAD/CONTRIBUTING.md) |
 | ['x509_from_der' segfaults with invalid input](https://github.com/zeek/zeek/issues/5927) 💬 3 | [zeek/zeek](https://github.com/zeek/zeek) | 8.3k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/zeek/zeek/blob/HEAD/CONTRIBUTING.md) |
-| [NaN quotes/rates are accepted by FlatForward and ZeroCurve and propagate silently to bond NPV (while an empty…](https://github.com/lballabio/QuantLib/issues/2995) 💬 9 | [lballabio/QuantLib](https://github.com/lballabio/QuantLib) | 7.8k | 🟡 help wanted | 2026-11-03 | [📘 guide](https://github.com/lballabio/QuantLib/blob/HEAD/CONTRIBUTING.md) |
 | [brew services or lanuchctl support in the macOS](https://github.com/ClickHouse/ClickHouse/issues/61756) 💬 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 51k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/ClickHouse/ClickHouse/blob/HEAD/CONTRIBUTING.md) |
 | [using sumMap efficiently](https://github.com/ClickHouse/ClickHouse/issues/62535) 💬 5 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 51k | 🟡 help wanted | 2026-11-02 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/ClickHouse/ClickHouse/blob/HEAD/CONTRIBUTING.md) |
 | [Support ledger parameters in tx command and deprecate/remove transaction_entry](https://github.com/XRPLF/rippled/issues/2598) 💬 5 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-11-02 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
@@ -212,5 +211,6 @@
 | [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.3k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
 | [llama cpp server cant open to public](https://github.com/ggml-org/llama.cpp/issues/6268) 💬 8 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 135.6k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
 | [Fallback code paths with "SIMD Everywhere"](https://github.com/simdjson/simdjson/issues/1091) 💬 6 | [simdjson/simdjson](https://github.com/simdjson/simdjson) | 24.6k | 🟢 beginner | 2026-09-06 | 📄 AI policy · [📘 guide](https://github.com/simdjson/simdjson/blob/HEAD/CONTRIBUTING.md) |
+| [Add option for voice over language](https://github.com/diasurgical/DevilutionX/issues/5742) 💬 2 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 10k | 🟢 beginner | 2026-09-06 | [📘 guide](https://github.com/diasurgical/DevilutionX/blob/HEAD/docs/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 315 on the website.
+Showing the 200 most recently updated. See all 313 on the website.
