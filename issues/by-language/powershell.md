@@ -1,10 +1,10 @@
 # PowerShell issues
 
-**24** open issues (14 labeled for beginners) across **8** active PowerShell projects.
+**25** open issues (14 labeled for beginners) across **8** active PowerShell projects.
 
 [PowerShell quickstart](../../languages/powershell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/powershell.xml)
 
-> Updated automatically on **2026-11-19 15:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-20 00:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [pov-ray@3.7.0: download failed](https://github.com/ScoopInstaller/Extras/issues/19428) 💬 2 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-19 |  |
+| [pov-ray@3.7.0: download failed](https://github.com/ScoopInstaller/Extras/issues/19428) 💬 3 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-19 |  |
+| [vncviewer@7.15.1: download failed](https://github.com/ScoopInstaller/Extras/issues/19432) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-19 |  |
 | [openutau@0.1.565: download failed](https://github.com/ScoopInstaller/Extras/issues/19410) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-18 |  |
 | [Support for other clouds](https://github.com/Euro-Office/DesktopEditors/issues/191) 💬 5 | [Euro-Office/DesktopEditors](https://github.com/Euro-Office/DesktopEditors) | 994 | 🟡 help wanted | 2026-11-16 |  |
 | [ida-free@8.4.240527: download failed](https://github.com/ScoopInstaller/Extras/issues/19346) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-15 |  |
@@ -25,7 +26,7 @@
 | [Microsoft Teams Provider: Support Dynamic Parameters - Part 5](https://github.com/cisagov/ScubaGear/issues/2533) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [SharePoint Online Provider: Support Dynamic Parameters - Part 4](https://github.com/cisagov/ScubaGear/issues/2532) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\] - "Add Prevent automatic download of applications associated with device metadata" to Windows User…](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline/issues/233) 💬 3 | [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) | 1.6k | 🟡 help wanted | 2026-11-03 |  |
-| [Request: DNS Plugin for Network Solutions](https://github.com/rmbolger/Posh-ACME/issues/710) 💬 1 | [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) | 937 | 🟡 help wanted | 2026-11-03 | [📘 guide](https://github.com/rmbolger/Posh-ACME/blob/HEAD/CONTRIBUTING.md) |
+| [Request: DNS Plugin for Network Solutions](https://github.com/rmbolger/Posh-ACME/issues/710) 💬 1 | [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) | 935 | 🟡 help wanted | 2026-11-03 | [📘 guide](https://github.com/rmbolger/Posh-ACME/blob/HEAD/CONTRIBUTING.md) |
 | [Proposal: Create a new Defender policy to disable PowerShell access to inboxes from non-administrative users](https://github.com/cisagov/ScubaGear/issues/1418) 💬 2 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-28 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Entra section 7 policies can produce inaccurate results if two privileged users have the same name](https://github.com/cisagov/ScubaGear/issues/2541) 💬 1 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-27 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
 | [Enhance UpdateCachedConditionalAccessPolicyByName functional test helper to make Entra tests more resilient](https://github.com/cisagov/ScubaGear/issues/2191) 💬 4 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2.8k | 🟢 beginner | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/cisagov/ScubaGear/blob/HEAD/CONTRIBUTING.md) |
