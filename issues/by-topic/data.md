@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**289** open issues (158 labeled for beginners) across **90** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**289** open issues (157 labeled for beginners) across **91** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Add support for BigQuery's RECORD field type](https://github.com/getredash/redash/issues/4207) 💬 7 | [getredash/redash](https://github.com/getredash/redash) | 28.9k | 🟡 help wanted | 2026-11-21 | [📘 guide](https://github.com/getredash/redash/blob/HEAD/CONTRIBUTING.md) |
 | [Enable kubernetes_pod_operator to reattach_on_restart when the worker dies](https://github.com/apache/airflow/issues/21900) 💬 6 | [apache/airflow](https://github.com/apache/airflow) | 47.6k | 🟢 beginner | 2026-11-20 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
 | [Some liveness checks don't actually check process](https://github.com/apache/airflow/issues/26574) 💬 11 | [apache/airflow](https://github.com/apache/airflow) | 47.6k | 🟢 beginner | 2026-11-20 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/apache/airflow/blob/HEAD/CONTRIBUTING.rst) |
 | [配置下拉框查询时，直接使用SQL拉取数据，SQL中能否支持URL中的参数](https://github.com/jeecgboot/jimureport/issues/3658) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.6k | 🟡 help wanted | 2026-11-20 |  |
@@ -138,7 +139,6 @@
 | [\[BUG\] improve Accessibility](https://github.com/Leantime/leantime/issues/299) 💬 4 | [Leantime/leantime](https://github.com/Leantime/leantime) | 12.1k | 🟡 help wanted | 2026-10-01 | ✍️ CLA · [📘 guide](https://github.com/Leantime/leantime/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] RTL needs further improvements](https://github.com/Leantime/leantime/issues/456) 💬 2 | [Leantime/leantime](https://github.com/Leantime/leantime) | 12.1k | 🟡 help wanted | 2026-10-01 | ✍️ CLA · [📘 guide](https://github.com/Leantime/leantime/blob/HEAD/CONTRIBUTING.md) |
 | [Move all repo calls from controllers to services](https://github.com/Leantime/leantime/issues/1532) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 12.1k | 🟢 beginner | 2026-10-01 | ✍️ CLA · [📘 guide](https://github.com/Leantime/leantime/blob/HEAD/CONTRIBUTING.md) |
-| [Write documentation](https://github.com/Leantime/leantime/issues/1950) 💬 7 | [Leantime/leantime](https://github.com/Leantime/leantime) | 12.1k | 🟢 beginner | 2026-10-01 | ✍️ CLA · [📘 guide](https://github.com/Leantime/leantime/blob/HEAD/CONTRIBUTING.md) |
 | [Convert 'Past 5m...' dropdowns to duration selector](https://github.com/influxdata/influxdb/issues/18119) 💬 5 | [influxdata/influxdb](https://github.com/influxdata/influxdb) | 31.8k | 🟢 beginner | 2026-09-30 | ✍️ CLA · [📘 guide](https://github.com/influxdata/influxdb/blob/HEAD/CONTRIBUTING.md) |
 | [NEW DESIGN - Bring back the inline editing of ingredients](https://github.com/openfoodfacts/openfoodfacts-server/issues/7520) 💬 3 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 | [end-to-end tests for ioredis and dragonfly](https://github.com/dragonflydb/dragonfly/issues/383) 💬 7 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | 31.9k | 🟢 beginner | 2026-09-29 | ✍️ CLA · 🔏 DCO · [📘 guide](https://github.com/dragonflydb/dragonfly/blob/HEAD/CONTRIBUTING.md) |

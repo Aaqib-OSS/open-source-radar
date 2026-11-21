@@ -1,10 +1,10 @@
 # Ruby issues
 
-**76** open issues (55 labeled for beginners) across **27** active Ruby projects.
+**77** open issues (56 labeled for beginners) across **27** active Ruby projects.
 
 [Ruby quickstart](../../languages/ruby.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Add support for Magma (computational algebra system)](https://github.com/github-linguist/linguist/issues/8353) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-21 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
 | [ObjectSpace.each_object(Module) should visit singleton classes](https://github.com/truffleruby/truffleruby/issues/2825) | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
 | [Assert assignPositionOnly() and copyNewlineFlag() are never called on a SequenceNode](https://github.com/truffleruby/truffleruby/issues/4282) | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |
 | [#load should prioritize $LOAD_PATH before the 'pwd'](https://github.com/truffleruby/truffleruby/issues/1498) 💬 1 | [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) | 3.2k | 🟢 beginner | 2026-11-19 | [📘 guide](https://github.com/truffleruby/truffleruby/blob/HEAD/CONTRIBUTING.md) |

@@ -1,10 +1,10 @@
 # C# issues
 
-**239** open issues (63 labeled for beginners) across **78** active C# projects.
+**238** open issues (63 labeled for beginners) across **77** active C# projects.
 
 [C# quickstart](../../languages/csharp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Invalid IDE0059 Suggestion](https://github.com/dotnet/roslyn/issues/44010) 💬 20 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.8k | 🟡 help wanted | 2026-11-21 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
 | [ParameterView unchecked type casts when splatting provides unhelpful error messages](https://github.com/dotnet/aspnetcore/issues/67285) 💬 2 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟡 help wanted | 2026-11-20 | ✍️ CLA · [📘 guide](https://github.com/dotnet/aspnetcore/blob/HEAD/CONTRIBUTING.md) |
 | [Design proposal: #47685 Add blob() method to JS side of Blazor DotNetStreamReference](https://github.com/dotnet/aspnetcore/issues/61826) 💬 15 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟢 beginner | 2026-11-20 | ✍️ CLA · [📘 guide](https://github.com/dotnet/aspnetcore/blob/HEAD/CONTRIBUTING.md) |
 | [MudTimePicker doesn't allow a typed space even though format is h:mm tt](https://github.com/MudBlazor/MudBlazor/issues/10131) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟡 help wanted | 2026-11-20 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
@@ -92,7 +93,6 @@
 | [\[Request\] Video Tutorials](https://github.com/stride3d/stride/issues/257) 💬 6 | [stride3d/stride](https://github.com/stride3d/stride) | 8k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/stride3d/stride/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Android Build (F6) should not require a connected device.](https://github.com/stride3d/stride/issues/57) 💬 1 | [stride3d/stride](https://github.com/stride3d/stride) | 8k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/stride3d/stride/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Update API Docs for Windows Life Cycle events](https://github.com/dotnet/maui/issues/24641) 💬 5 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-10-30 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Possibly too aggressive cleaning](https://github.com/builtbybel/FluentCleaner/issues/51) 💬 12 | [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) | 7.5k | 🟡 help wanted | 2026-10-30 |  |
 | [\[Enhancement\] Label Autofit Font](https://github.com/dotnet/maui/issues/10884) 💬 5 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-10-29 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Auto-evo exploring tool should list happened patch events for future reference](https://github.com/Revolutionary-Games/Thrive/issues/5667) 💬 6 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-10-29 | 📄 AI policy · [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Add "Keyboard.None"](https://github.com/dotnet/maui/issues/10331) 💬 6 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟡 help wanted | 2026-10-28 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -189,7 +189,6 @@
 | [Don't copy additional files when ReferenceOutputAssembly=false for exe references](https://github.com/dotnet/sdk/issues/23420) 💬 4 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.3k | 🟢 beginner | 2026-08-31 |  |
 | [Sync image viewing order with Windows Explorer sorting](https://github.com/Ruben2776/PicView/issues/328) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-08-30 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Extend DUMP & RESTORE commands to support Garnet objects](https://github.com/microsoft/garnet/issues/1343) 💬 5 | [microsoft/garnet](https://github.com/microsoft/garnet) | 12.1k | 🟡 help wanted | 2026-08-27 |  |
-| [Specify what encodings of source files are recognized by Roslyn and add corresponding tests](https://github.com/dotnet/roslyn/issues/410) 💬 2 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.8k | 🟡 help wanted | 2026-08-26 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
 | [Clarification about System.Drawing.Font and Dispose](https://github.com/dotnet/winforms/issues/8823) 💬 13 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-08-26 | [📘 guide](https://github.com/dotnet/winforms/blob/HEAD/CONTRIBUTING.md) |
 | [\[ONBOARD\] Azure Arc Developer Scenarios](https://github.com/microsoft/mcp/issues/163) 💬 1 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.9k | 🟡 help wanted | 2026-08-26 | [📘 guide](https://github.com/microsoft/mcp/blob/HEAD/CONTRIBUTING.md) |
 | [Add prompt for the delete keybinding controller button in the keybindings menu](https://github.com/Revolutionary-Games/Thrive/issues/4049) 💬 17 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-08-25 | 📄 AI policy · [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
@@ -212,5 +211,6 @@
 | [Need HDR support](https://github.com/Ruben2776/PicView/issues/310) 💬 4 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Image Position And Pixel Info](https://github.com/Ruben2776/PicView/issues/151) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
 | [Add support for cropping function to work when zoomed in](https://github.com/Ruben2776/PicView/issues/44) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-08-06 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
+| [Centralize more toolsetversion-related data for tests](https://github.com/dotnet/sdk/issues/41583) 💬 3 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.3k | 🟢 beginner | 2026-08-03 |  |
 
-Showing the 200 most recently updated. See all 239 on the website.
+Showing the 200 most recently updated. See all 238 on the website.

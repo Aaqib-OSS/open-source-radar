@@ -1,10 +1,10 @@
 # HTML issues
 
-**91** open issues (31 labeled for beginners) across **29** active HTML projects.
+**90** open issues (30 labeled for beginners) across **29** active HTML projects.
 
 [HTML quickstart](../../languages/html-css.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -81,7 +81,6 @@
 | [feat: use HyperFrames natively — skills for authoring + CLI for rendering](https://github.com/nexu-io/html-video/issues/82) 💬 4 | [nexu-io/html-video](https://github.com/nexu-io/html-video) | 4.9k | 🟡 help wanted | 2026-07-19 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-video/blob/HEAD/CONTRIBUTING.md) |
 | [consider re-excluding oidc, gcp build tags from image build](https://github.com/projectcontour/contour/issues/5085) 💬 1 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-07-19 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
 | [Translate content into Korean](https://github.com/HTTPArchive/almanac.httparchive.org/issues/926) 💬 14 | [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) | 696 | 🟢 beginner | 2026-07-05 | [📘 guide](https://github.com/HTTPArchive/almanac.httparchive.org/blob/HEAD/CONTRIBUTING.md) |
-| [Translate content into Polish](https://github.com/HTTPArchive/almanac.httparchive.org/issues/1043) 💬 8 | [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) | 696 | 🟢 beginner | 2026-07-05 | [📘 guide](https://github.com/HTTPArchive/almanac.httparchive.org/blob/HEAD/CONTRIBUTING.md) |
 | [NEW DESIGN - We should try to display cards when JavaScript is disabled](https://github.com/openfoodfacts/openfoodfacts-server/issues/7503) 💬 3 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-06-28 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
 | ["determine the value of a named property" should not imply a new object each time](https://github.com/whatwg/html/issues/5266) 💬 13 | [whatwg/html](https://github.com/whatwg/html) | 9.5k | 🟢 beginner | 2026-06-26 | [📘 guide](https://github.com/whatwg/html/blob/HEAD/.github/CONTRIBUTING.md) |
 | [CORE-AAM has "user agents must not expose non-global, not support attributes on roles", but there is no relat…](https://github.com/w3c/aria/issues/2168) 💬 2 | [w3c/aria](https://github.com/w3c/aria) | 758 | 🟢 beginner | 2026-06-23 | [📘 guide](https://github.com/w3c/aria/blob/HEAD/CONTRIBUTING.md) |

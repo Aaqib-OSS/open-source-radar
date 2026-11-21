@@ -1,10 +1,10 @@
 # C++ issues
 
-**310** open issues (113 labeled for beginners) across **99** active C++ projects.
+**312** open issues (114 labeled for beginners) across **100** active C++ projects.
 
 [C++ quickstart](../../languages/cpp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,6 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [STEP: Combining STEP files messes tree structure in resulting file](https://github.com/FreeCAD/FreeCAD/issues/11441) 💬 7 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 35.7k | 🟡 help wanted | 2026-11-21 | ⚠️ AI restricted · [📘 guide](https://github.com/FreeCAD/FreeCAD/blob/HEAD/CONTRIBUTING.md) |
+| [Border issues reported since Plus 1.0.8 and Classic 5.55.8 on maximized windows](https://github.com/sandboxie-plus/Sandboxie/issues/1561) 💬 6 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | 20k | 🟡 help wanted | 2026-11-21 | [📘 guide](https://github.com/sandboxie-plus/Sandboxie/blob/HEAD/CONTRIBUTING.md) |
 | [Move pasted objects for clarity](https://github.com/xournalpp/xournalpp/issues/1165) 💬 14 | [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) | 15.7k | 🟢 beginner | 2026-11-21 | [📘 guide](https://github.com/xournalpp/xournalpp/blob/HEAD/CONTRIBUTING.md) |
 | [blank screen on desktop on Windows 11 PRO](https://github.com/hluk/CopyQ/issues/3736) 💬 5 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.7k | 🟡 help wanted | 2026-11-21 |  |
 | [Add support for final shader file and presets](https://github.com/f3d-app/f3d/issues/3733) 💬 1 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 5.1k | 🟡 help wanted | 2026-11-21 | 🤖 disclose AI use · [📘 guide](https://github.com/f3d-app/f3d/blob/HEAD/CONTRIBUTING.md) |
@@ -89,14 +90,14 @@
 | [\[Feature Request\] Screen sharing is of somewhat low quality](https://github.com/telegramdesktop/tdesktop/issues/16487) 💬 61 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 33.6k | 🟡 help wanted | 2026-10-31 | [📘 guide](https://github.com/telegramdesktop/tdesktop/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Bug\]: Refit in stations can fail if leading articulated part has 0 capacity](https://github.com/OpenTTD/OpenTTD/issues/11034) 💬 3 | [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) | 8.5k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/OpenTTD/OpenTTD/blob/HEAD/CONTRIBUTING.md) |
 | [Windows: Snipping Tool fails to save screenshots beyond a certain size while CopyQ is running](https://github.com/hluk/CopyQ/issues/3598) 💬 18 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.7k | 🟡 help wanted | 2026-10-30 |  |
-| [Hotkey action to cycle between specific computers](https://github.com/deskflow/deskflow/issues/9135) 💬 22 | [deskflow/deskflow](https://github.com/deskflow/deskflow) | 31.5k | 🟢 beginner | 2026-10-27 | [📘 guide](https://github.com/deskflow/deskflow/blob/HEAD/.github/CONTRIBUTING.md) |
+| [Hotkey action to cycle between specific computers](https://github.com/deskflow/deskflow/issues/9135) 💬 22 | [deskflow/deskflow](https://github.com/deskflow/deskflow) | 31.6k | 🟢 beginner | 2026-10-27 | [📘 guide](https://github.com/deskflow/deskflow/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Add an option to shutdown when connections reach zero](https://github.com/envoyproxy/envoy/issues/3837) 💬 20 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.3k | 🟡 help wanted | 2026-10-27 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
 | [Tabs coloring and tooltips info and some UI improvments](https://github.com/pbek/QOwnNotes/issues/2573) 💬 8 | [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) | 6k | 🟡 help wanted | 2026-10-27 |  |
 | [Envoy Redis proxy SCAN implementation not compatible with Redis specification](https://github.com/envoyproxy/envoy/issues/42889) 💬 4 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.3k | 🟡 help wanted | 2026-10-26 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
 | [Need reliable commitment for maintainers.](https://github.com/cp-algorithms/cp-algorithms/issues/1489) 💬 14 | [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) | 11.5k | 🟡 help wanted | 2026-10-26 | 🤖 disclose AI use · [📘 guide](https://github.com/cp-algorithms/cp-algorithms/blob/HEAD/CONTRIBUTING.md) |
 | [Better docs/name needed for "multi-threaded" benchmarking](https://github.com/google/benchmark/issues/813) 💬 2 | [google/benchmark](https://github.com/google/benchmark) | 10.5k | 🟡 help wanted | 2026-10-26 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/google/benchmark/blob/HEAD/CONTRIBUTING.md) |
 | [Add testing for special_id/special_type weapon filters](https://github.com/wesnoth/wesnoth/issues/4482) 💬 4 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 7k | 🟢 beginner | 2026-10-26 | [📘 guide](https://github.com/wesnoth/wesnoth/blob/HEAD/CONTRIBUTING.md) |
-| [Feature Request: support the multi-modal Bagel model](https://github.com/ggml-org/llama.cpp/issues/17861) 💬 3 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 135.9k | 🟡 help wanted | 2026-10-25 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
+| [Feature Request: support the multi-modal Bagel model](https://github.com/ggml-org/llama.cpp/issues/17861) 💬 3 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 136k | 🟡 help wanted | 2026-10-25 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
 | [saved position slowly drifts down](https://github.com/mumble-voip/mumble/issues/7112) 💬 6 | [mumble-voip/mumble](https://github.com/mumble-voip/mumble) | 8.4k | 🟡 help wanted | 2026-10-25 |  |
 | [webdav 删除文件报错，实际已经删除。文件夹和文件按名称排序异常](https://github.com/filecxx/FileCentipede/issues/656) 💬 1 | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | 11k | 🟢 beginner | 2026-10-24 |  |
 | [这个网址的视频能下载但是不能播放](https://github.com/filecxx/FileCentipede/issues/702) 💬 3 | [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) | 11k | 🟢 beginner | 2026-10-24 |  |
@@ -117,7 +118,7 @@
 | [Dying in Winterfall Village Cave takes you to Alterac graveyard](https://github.com/azerothcore/azerothcore-wotlk/issues/7014) 💬 8 | [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | 9.2k | 🟢 beginner | 2026-10-18 | [📘 guide](https://github.com/azerothcore/azerothcore-wotlk/blob/HEAD/.github/CONTRIBUTING.md) |
 | [modals blocking multiple windows in GTK client](https://github.com/transmission/transmission/issues/3120) 💬 1 | [transmission/transmission](https://github.com/transmission/transmission) | 15.4k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/transmission/transmission/blob/HEAD/CONTRIBUTING.md) |
 | [Don't Pause/Play when clicking to Jellyfin from another application](https://github.com/jellyfin/jellyfin-desktop/issues/513) 💬 6 | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 6.1k | 🟡 help wanted | 2026-10-17 | [📘 guide](https://github.com/jellyfin/jellyfin-desktop/blob/HEAD/CONTRIBUTING.md) |
-| [Converging toward a principal Unreal Engine backend/binding for Dear ImGui?](https://github.com/ocornut/imgui/issues/9122) 💬 49 | [ocornut/imgui](https://github.com/ocornut/imgui) | 77.2k | 🟡 help wanted | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/ocornut/imgui/blob/HEAD/docs/CONTRIBUTING.md) |
+| [Converging toward a principal Unreal Engine backend/binding for Dear ImGui?](https://github.com/ocornut/imgui/issues/9122) 💬 49 | [ocornut/imgui](https://github.com/ocornut/imgui) | 77.3k | 🟡 help wanted | 2026-10-16 | ✍️ CLA · [📘 guide](https://github.com/ocornut/imgui/blob/HEAD/docs/CONTRIBUTING.md) |
 | [Git submodule directories disappear in dirty directories](https://github.com/NixOS/nix/issues/6247) 💬 2 | [NixOS/nix](https://github.com/NixOS/nix) | 18.1k | 🟢 beginner | 2026-10-15 | 🤖 disclose AI use · [📘 guide](https://github.com/NixOS/nix/blob/HEAD/CONTRIBUTING.md) |
 | [Flatpak 17.0.0 exits when opening Preferences on Ubuntu 22.04 GNOME/X11](https://github.com/hluk/CopyQ/issues/3748) 💬 1 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.7k | 🟡 help wanted | 2026-10-15 |  |
 | [Allow to use SVG as icons](https://github.com/Alexays/Waybar/issues/1330) 💬 16 | [Alexays/Waybar](https://github.com/Alexays/Waybar) | 12.2k | 🟢 beginner | 2026-10-15 | [📘 guide](https://github.com/Alexays/Waybar/blob/HEAD/CONTRIBUTING.md) |
@@ -208,9 +209,8 @@
 | [Signed releases](https://github.com/envoyproxy/envoy/issues/14076) 💬 19 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29.3k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/envoyproxy/envoy/blob/HEAD/CONTRIBUTING.md) |
 | [clang-tidy: enable performance-*](https://github.com/alibaba/zvec/issues/291) 💬 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.3k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
 | [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.3k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/alibaba/zvec/blob/HEAD/CONTRIBUTING.md) |
-| [llama cpp server cant open to public](https://github.com/ggml-org/llama.cpp/issues/6268) 💬 8 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 135.9k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
+| [llama cpp server cant open to public](https://github.com/ggml-org/llama.cpp/issues/6268) 💬 8 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 136k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted · [📘 guide](https://github.com/ggml-org/llama.cpp/blob/HEAD/CONTRIBUTING.md) |
 | [Fallback code paths with "SIMD Everywhere"](https://github.com/simdjson/simdjson/issues/1091) 💬 6 | [simdjson/simdjson](https://github.com/simdjson/simdjson) | 24.6k | 🟢 beginner | 2026-09-06 | 📄 AI policy · [📘 guide](https://github.com/simdjson/simdjson/blob/HEAD/CONTRIBUTING.md) |
 | [Add option for voice over language](https://github.com/diasurgical/DevilutionX/issues/5742) 💬 2 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 10k | 🟢 beginner | 2026-09-06 | [📘 guide](https://github.com/diasurgical/DevilutionX/blob/HEAD/docs/CONTRIBUTING.md) |
-| [Bazel rules for C#](https://github.com/protocolbuffers/protobuf/issues/18352) 💬 4 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.2k | 🟡 help wanted | 2026-09-03 | ✍️ CLA · [📘 guide](https://github.com/protocolbuffers/protobuf/blob/HEAD/CONTRIBUTING.md) |
 
-Showing the 200 most recently updated. See all 310 on the website.
+Showing the 200 most recently updated. See all 312 on the website.

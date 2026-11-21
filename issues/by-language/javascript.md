@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**154** open issues (58 labeled for beginners) across **63** active JavaScript projects.
+**153** open issues (57 labeled for beginners) across **62** active JavaScript projects.
 
 [JavaScript quickstart](../../languages/javascript.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-11-21 14:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-21 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -26,7 +26,7 @@
 | [\[Help\]关于UI有些疑问和建议](https://github.com/viarotel-org/escrcpy/issues/661) | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 12.4k | 🟡 help wanted | 2026-11-13 |  |
 | [I can model a message element of a message flow](https://github.com/bpmn-io/bpmn-js/issues/447) 💬 3 | [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) | 9.7k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/bpmn-io/bpmn-js/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[BUG\]: Violentmonkey popup window height is too narrow](https://github.com/violentmonkey/violentmonkey/issues/2723) 💬 3 | [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) | 9.2k | 🟡 help wanted | 2026-11-12 |  |
-| [Filter tls options](https://github.com/nodejs/undici/issues/236) 💬 9 | [nodejs/undici](https://github.com/nodejs/undici) | 7.7k | 🟢 beginner | 2026-11-12 | [📘 guide](https://github.com/nodejs/undici/blob/HEAD/CONTRIBUTING.md) |
+| [Filter tls options](https://github.com/nodejs/undici/issues/236) 💬 9 | [nodejs/undici](https://github.com/nodejs/undici) | 7.8k | 🟢 beginner | 2026-11-12 | [📘 guide](https://github.com/nodejs/undici/blob/HEAD/CONTRIBUTING.md) |
 | [\[Help\] catch-all那里现在需要email worker，咋办？](https://github.com/maillab/cloud-mail/issues/564) 💬 5 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 16.5k | 🟡 help wanted | 2026-11-08 |  |
 | [Functions do not recon with 'config.number' when converting a string into a numeric type](https://github.com/josdejong/mathjs/issues/3206) 💬 3 | [josdejong/mathjs](https://github.com/josdejong/mathjs) | 15.1k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/josdejong/mathjs/blob/HEAD/CONTRIBUTING.md) |
 | [Other worlds: Moon and Mars as alternate globes](https://github.com/bilawalsidhu/gods-eye-view/issues/738) 💬 7 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 66.2k | 🟡 help wanted | 2026-11-07 | [📘 guide](https://github.com/bilawalsidhu/gods-eye-view/blob/HEAD/CONTRIBUTING.md) |
@@ -66,7 +66,7 @@
 | [IndexedDB errorlog](https://github.com/AlaSQL/alasql/issues/646) 💬 3 | [AlaSQL/alasql](https://github.com/AlaSQL/alasql) | 7.3k | 🟡 help wanted | 2026-10-21 | [📘 guide](https://github.com/AlaSQL/alasql/blob/HEAD/CONTRIBUTING.md) |
 | [WebWolf: add a page to create a response](https://github.com/WebGoat/WebGoat/issues/1545) 💬 1 | [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 9.5k | 🟡 help wanted | 2026-10-18 | [📘 guide](https://github.com/WebGoat/WebGoat/blob/HEAD/CONTRIBUTING.md) |
 | [\[Help Wanted\] Huggingface作为后端，图床删除文件后，仓库扔保留commit历史，占用仓库空间。](https://github.com/MarSeventh/CloudFlare-ImgBed/issues/759) | [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | 6.9k | 🟡 help wanted | 2026-10-18 | 🤖 disclose AI use · [📘 guide](https://github.com/MarSeventh/CloudFlare-ImgBed/blob/HEAD/CONTRIBUTING.md) |
-| [Cross-tool English false-positive benchmark (new repo)](https://github.com/conorbronsdon/avoid-ai-writing/issues/84) | [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | 5.8k | 🟡 help wanted | 2026-10-18 | 🤖 disclose AI use · [📘 guide](https://github.com/conorbronsdon/avoid-ai-writing/blob/HEAD/CONTRIBUTING.md) |
+| [Cross-tool English false-positive benchmark (new repo)](https://github.com/conorbronsdon/avoid-ai-writing/issues/84) | [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | 5.9k | 🟡 help wanted | 2026-10-18 | 🤖 disclose AI use · [📘 guide](https://github.com/conorbronsdon/avoid-ai-writing/blob/HEAD/CONTRIBUTING.md) |
 | [Deprecate 'aws config credentials' command](https://github.com/serverless/serverless/issues/11763) 💬 12 | [serverless/serverless](https://github.com/serverless/serverless) | 46.9k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/serverless/serverless/blob/HEAD/CONTRIBUTING.md) |
 | [\[ACTION\]](https://github.com/PipedreamHQ/pipedream/issues/22275) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.8k | 🟢 beginner | 2026-10-16 | [📘 guide](https://github.com/PipedreamHQ/pipedream/blob/HEAD/CONTRIBUTING.md) |
 | [Show resize handles on hover](https://github.com/bpmn-io/bpmn-js/issues/561) 💬 4 | [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) | 9.7k | 🟡 help wanted | 2026-10-14 | [📘 guide](https://github.com/bpmn-io/bpmn-js/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -105,7 +105,7 @@
 | [\[Help\] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 16.5k | 🟡 help wanted | 2026-09-05 |  |
 | [Generate PDF/A compliant document](https://github.com/parallax/jsPDF/issues/2882) 💬 6 | [parallax/jsPDF](https://github.com/parallax/jsPDF) | 31.3k | 🟡 help wanted | 2026-09-03 | [📘 guide](https://github.com/parallax/jsPDF/blob/HEAD/CONTRIBUTING.md) |
 | [Finish DocumenterPluto.jl](https://github.com/JuliaPluto/Pluto.jl/issues/3602) 💬 1 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-09-03 | [📘 guide](https://github.com/JuliaPluto/Pluto.jl/blob/HEAD/CONTRIBUTING.md) |
-| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 252.8k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/react/react/blob/HEAD/CONTRIBUTING.md) |
+| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 252.9k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/react/react/blob/HEAD/CONTRIBUTING.md) |
 | [Backmerging Module Federation v2](https://github.com/webpack/webpack/issues/18809) 💬 20 | [webpack/webpack](https://github.com/webpack/webpack) | 66k | 🟡 help wanted | 2026-09-02 | [📘 guide](https://github.com/webpack/webpack/blob/HEAD/CONTRIBUTING.md) |
 | [Module Federation Share should support layers/issuerLayer](https://github.com/webpack/webpack/issues/18988) 💬 9 | [webpack/webpack](https://github.com/webpack/webpack) | 66k | 🟡 help wanted | 2026-09-02 | [📘 guide](https://github.com/webpack/webpack/blob/HEAD/CONTRIBUTING.md) |
 | [📝 Docs: Give props to non-OpenCollective sponsors, services](https://github.com/mochajs/mocha/issues/3627) 💬 7 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22.9k | 🟢 beginner | 2026-09-02 | ✍️ CLA · [📘 guide](https://github.com/mochajs/mocha/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -165,4 +165,3 @@
 | [Support for Top-Level Global Mode](https://github.com/processing/p5.js/issues/7737) 💬 35 | [processing/p5.js](https://github.com/processing/p5.js) | 24.4k | 🟡 help wanted | 2026-06-01 | ⚠️ AI restricted · [📘 guide](https://github.com/processing/p5.js/blob/HEAD/CONTRIBUTING.md) |
 | [Runic formatting ?](https://github.com/JuliaPluto/Pluto.jl/issues/3534) 💬 3 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-06-01 | [📘 guide](https://github.com/JuliaPluto/Pluto.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Add ping graph on the status page](https://github.com/louislam/uptime-kuma/issues/637) 💬 35 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 94.7k | 🟡 help wanted | 2026-05-27 | ⚠️ AI restricted · [📘 guide](https://github.com/louislam/uptime-kuma/blob/HEAD/CONTRIBUTING.md) |
-| [Expose Fuse to be used independently](https://github.com/Choices-js/Choices/issues/1370) 💬 1 | [Choices-js/Choices](https://github.com/Choices-js/Choices) | 6.8k | 🟢 beginner | 2026-05-25 | [📘 guide](https://github.com/Choices-js/Choices/blob/HEAD/CONTRIBUTING.md) |
