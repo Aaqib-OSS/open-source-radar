@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**45** open issues (23 labeled for beginners) across **12** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
+**44** open issues (22 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-11-22 14:06 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-22 23:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,10 +10,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [\[FEAT\] - Online synchronization](https://github.com/flow-mn/flow/issues/93) 💬 5 | [flow-mn/flow](https://github.com/flow-mn/flow) | 520 | 🟡 help wanted | 2026-11-21 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
+| [\[FEAT\] - Online synchronization](https://github.com/flow-mn/flow/issues/93) 💬 5 | [flow-mn/flow](https://github.com/flow-mn/flow) | 521 | 🟡 help wanted | 2026-11-21 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Filtered balance on Split's notes not calculating properly](https://github.com/actualbudget/actual/issues/4381) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.4k | 🟡 help wanted | 2026-11-20 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: ios - cappucino theme - toast transparency](https://github.com/actualbudget/actual/issues/9584) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.4k | 🟢 beginner | 2026-11-18 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
-| [\[FEAT\] Add transactions from incoming SMS](https://github.com/flow-mn/flow/issues/673) 💬 7 | [flow-mn/flow](https://github.com/flow-mn/flow) | 520 | 🟡 help wanted | 2026-11-14 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
+| [\[FEAT\] Add transactions from incoming SMS](https://github.com/flow-mn/flow/issues/673) 💬 7 | [flow-mn/flow](https://github.com/flow-mn/flow) | 521 | 🟡 help wanted | 2026-11-14 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
 | [Syncing archive node from era files](https://github.com/ethereum/go-ethereum/issues/35354) 💬 5 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 51.5k | 🟡 help wanted | 2026-11-08 | [📘 guide](https://github.com/ethereum/go-ethereum/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Bug\]: Scrolling jitter on mobile](https://github.com/actualbudget/actual/issues/9294) 💬 6 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.4k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Enable Banking with "imagin / CaixaBank" bank linking fails on desktop but works on mobile browser](https://github.com/actualbudget/actual/issues/8326) 💬 8 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.4k | 🟡 help wanted | 2026-11-03 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
@@ -30,7 +30,6 @@
 | [\[Roadmap\] Pairs and spread trading foundation](https://github.com/OpenByteInc/QuantDinger/issues/253) | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 13.9k | 🟡 help wanted | 2026-09-18 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |
 | [\[Roadmap\] Portfolio strategies and scheduled rebalancing](https://github.com/OpenByteInc/QuantDinger/issues/252) | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 13.9k | 🟡 help wanted | 2026-09-18 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |
 | [\[Roadmap\] Dynamic universe and point-in-time stock screening](https://github.com/OpenByteInc/QuantDinger/issues/251) | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 13.9k | 🟡 help wanted | 2026-09-18 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |
-| [Add CI for jupyter notebook example 'workflow_by_code.ipynb'](https://github.com/microsoft/qlib/issues/1278) 💬 8 | [microsoft/qlib](https://github.com/microsoft/qlib) | 50.5k | 🟢 beginner | 2026-09-01 |  |
 | [book_offers RPC does not validate domain existence](https://github.com/XRPLF/rippled/issues/6589) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-08-06 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [AMMHelpers: Add defensive 'XRPL_ASSERT' for denominator in 'ammAssetOut'](https://github.com/XRPLF/rippled/issues/6661) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-08-05 | [📘 guide](https://github.com/XRPLF/rippled/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Account linking process with Gocardless times out before completion](https://github.com/actualbudget/actual/issues/4460) 💬 21 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.4k | 🟢 beginner | 2026-08-04 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
