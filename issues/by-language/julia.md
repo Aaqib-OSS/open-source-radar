@@ -1,10 +1,10 @@
 # Julia issues
 
-**48** open issues (35 labeled for beginners) across **15** active Julia projects.
+**47** open issues (34 labeled for beginners) across **15** active Julia projects.
 
 [Julia quickstart](../../languages/julia.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-11-21 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-22 14:06 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Core.bitcast to LLVMPtr from Float64 generates invalid inttoptr, aborts compilation](https://github.com/JuliaLang/julia/issues/63218) 💬 6 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.3k | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
 | [Option for whitespace surrounding parenthesis/brackets?](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1084) 💬 2 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 649 | 🟢 beginner | 2026-11-10 |  |
 | [Roadmap and ideas for Molly.jl development](https://github.com/JuliaMolSim/Molly.jl/issues/2) 💬 53 | [JuliaMolSim/Molly.jl](https://github.com/JuliaMolSim/Molly.jl) | 503 | 🟢 beginner | 2026-10-27 |  |
 | [Improve reinterpret docstring](https://github.com/JuliaLang/julia/issues/47706) 💬 3 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.3k | 🟡 help wanted | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
@@ -38,7 +37,7 @@
 | [Support CuDeviceArray construction with non-Int dims](https://github.com/JuliaGPU/CUDA.jl/issues/2846) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [Document kernel indexing for 2D arrays](https://github.com/JuliaGPU/CUDA.jl/issues/218) 💬 4 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
 | [CUSPARSE: in-place copy from CuSparseCSC to SparseCSC](https://github.com/JuliaGPU/CUDA.jl/issues/1997) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |
-| [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 680 | 🟡 help wanted | 2026-10-07 |  |
+| [Support authentication when downloading files (e.g. artifacts)](https://github.com/JuliaLang/Pkg.jl/issues/4247) 💬 4 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 681 | 🟡 help wanted | 2026-10-07 |  |
 | [Conjugate heat transfer, requires implementation of new temperature scalar transport equation](https://github.com/WaterLily-jl/WaterLily.jl/issues/172) 💬 15 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 859 | 🟡 help wanted | 2026-09-27 |  |
 | [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 595 | 🟡 help wanted | 2026-09-14 | [📘 guide](https://github.com/EnzymeAD/Enzyme.jl/blob/HEAD/CONTRIBUTING.md) |
 | [Can't turn off range and indexing parentheses](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/877) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 649 | 🟢 beginner | 2026-09-10 |  |

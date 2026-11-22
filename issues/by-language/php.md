@@ -1,10 +1,10 @@
 # PHP issues
 
-**135** open issues (65 labeled for beginners) across **44** active PHP projects.
+**133** open issues (64 labeled for beginners) across **44** active PHP projects.
 
 [PHP quickstart](../../languages/php.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-21 23:02 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-22 14:06 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Gmail inline replies are truncated when using gmail_quote_container (FreeScout 1.8.251)](https://github.com/freescout-help-desk/freescout/issues/5825) 💬 6 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.7k | 🟡 help wanted | 2026-11-22 |  |
+| [Multiple authors not treated properly](https://github.com/nextcloud/news/issues/3898) 💬 1 | [nextcloud/news](https://github.com/nextcloud/news) | 1k | 🟡 help wanted | 2026-11-22 | 🔏 DCO · [📘 guide](https://github.com/nextcloud/news/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-11-21 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Gmail inline replies are truncated when using gmail_quote_container (FreeScout 1.8.251)](https://github.com/freescout-help-desk/freescout/issues/5825) 💬 4 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.7k | 🟡 help wanted | 2026-11-21 |  |
-| [Geocoding: log 'address not found' outcomes at info level instead of warning](https://github.com/ChurchCRM/CRM/issues/11843) | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-21 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [CSV Import does not support Role](https://github.com/ChurchCRM/CRM/issues/2975) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-21 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [net/haproxy: per-certificate (SNI) client certificate verification (mTLS) in Public Service](https://github.com/opnsense/plugins/issues/5934) | [opnsense/plugins](https://github.com/opnsense/plugins) | 1.2k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · [📘 guide](https://github.com/opnsense/plugins/blob/HEAD/CONTRIBUTING.md) |
 | [Provide config option to autofocus Username field on login page](https://github.com/phpmyadmin/phpmyadmin/issues/19340) 💬 9 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 8k | 🟢 beginner | 2026-11-16 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) |
@@ -34,10 +34,10 @@
 | [Create attendance sheet \| only Sundays?](https://github.com/ChurchCRM/CRM/issues/5314) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [2FA: Detect if server time is too far off](https://github.com/ChurchCRM/CRM/issues/5030) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [First day of the week](https://github.com/ChurchCRM/CRM/issues/4470) 💬 4 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Need label functionality for return addresses](https://github.com/ChurchCRM/CRM/issues/3633) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Enable type safety, unused-symbol and definition-order lint rules](https://github.com/LibreSign/libresign/issues/9502) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Enable import-extension and TypeScript type-import rules](https://github.com/LibreSign/libresign/issues/9501) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Enable import sorting while preserving import side effects](https://github.com/LibreSign/libresign/issues/9500) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
-| [Enable remaining JavaScript and TypeScript formatting rules](https://github.com/LibreSign/libresign/issues/9498) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Move existing certificate controls into a dedicated My certificates view](https://github.com/LibreSign/libresign/issues/9471) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 847 | 🟢 beginner | 2026-11-13 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]Subscribe FreshRSS's logs itself as rss](https://github.com/FreshRSS/FreshRSS/issues/6839) 💬 3 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.6k | 🟡 help wanted | 2026-11-09 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Armenian (hy)](https://github.com/symfony/symfony/issues/64481) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-31 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
@@ -51,7 +51,6 @@
 | [Missing translations for Mongolian (mn)](https://github.com/symfony/symfony/issues/45127) 💬 6 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Lithuanian (lt)](https://github.com/symfony/symfony/issues/65558) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Galician (gl)](https://github.com/symfony/symfony/issues/64496) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
-| [Missing translations for Czech (cs)](https://github.com/symfony/symfony/issues/64490) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Bosnian (bs)](https://github.com/symfony/symfony/issues/66090) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Belarusian (be)](https://github.com/symfony/symfony/issues/64483) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [Missing translations for Azerbaijani (az)](https://github.com/symfony/symfony/issues/64482) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-10-29 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
@@ -104,7 +103,6 @@
 | [JUnit report format (compatible with GitLab CI)](https://github.com/infection/infection/issues/1500) 💬 2 | [infection/infection](https://github.com/infection/infection) | 2.3k | 🟡 help wanted | 2026-08-30 | 🤖 disclose AI use · [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[feature\] Allow per-class mutant coverage thresholds](https://github.com/infection/infection/issues/2290) 💬 11 | [infection/infection](https://github.com/infection/infection) | 2.3k | 🟡 help wanted | 2026-08-30 | 🤖 disclose AI use · [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Alternative Badge SVG File as report for use in Gitlab and private Repositories](https://github.com/infection/infection/issues/1915) 💬 9 | [infection/infection](https://github.com/infection/infection) | 2.3k | 🟡 help wanted | 2026-08-30 | 🤖 disclose AI use · [📘 guide](https://github.com/infection/infection/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Multiple authors not treated properly](https://github.com/nextcloud/news/issues/3898) | [nextcloud/news](https://github.com/nextcloud/news) | 1k | 🟡 help wanted | 2026-08-29 | 🔏 DCO · [📘 guide](https://github.com/nextcloud/news/blob/HEAD/CONTRIBUTING.md) |
 | [suiteP theme in 7.8.2 is ignoring maxColumns](https://github.com/SuiteCRM/SuiteCRM/issues/3310) 💬 2 | [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) | 5.9k | 🟡 help wanted | 2026-08-28 | ✍️ CLA · [📘 guide](https://github.com/SuiteCRM/SuiteCRM/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Incorrect subscription type due to race condition](https://github.com/laravel/cashier-stripe/issues/1773) 💬 2 | [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | 🟡 help wanted | 2026-08-27 | [📘 guide](https://github.com/laravel/cashier-stripe/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Feature-Request: Pop-Out SQL Window](https://github.com/phpmyadmin/phpmyadmin/issues/11983) 💬 24 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 8k | 🟡 help wanted | 2026-08-18 | 🔏 DCO · [📘 guide](https://github.com/phpmyadmin/phpmyadmin/blob/HEAD/CONTRIBUTING.md) |
