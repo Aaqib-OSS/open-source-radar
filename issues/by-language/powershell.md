@@ -4,7 +4,7 @@
 
 [PowerShell quickstart](../../languages/powershell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/powershell.xml)
 
-> Updated automatically on **2026-11-22 23:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-23 16:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [q-dir@12.85: download failed](https://github.com/ScoopInstaller/Extras/issues/19461) 💬 3 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-22 |  |
+| [q-dir@12.85: download failed](https://github.com/ScoopInstaller/Extras/issues/19461) 💬 5 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-23 |  |
 | [pov-ray@3.7.0: download failed](https://github.com/ScoopInstaller/Extras/issues/19428) 💬 4 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-20 |  |
 | [openutau@0.1.565: download failed](https://github.com/ScoopInstaller/Extras/issues/19410) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-18 |  |
 | [Support for other clouds](https://github.com/Euro-Office/DesktopEditors/issues/191) 💬 5 | [Euro-Office/DesktopEditors](https://github.com/Euro-Office/DesktopEditors) | 1k | 🟡 help wanted | 2026-11-16 |  |

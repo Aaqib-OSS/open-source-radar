@@ -268,7 +268,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-25T19:41:43+00:00"
+    "scanned_at": "2026-11-23T16:46:13+00:00"
   },
   "ARM-software/CMSIS-DSP": {
     "ai": "none",
@@ -10001,7 +10001,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-25T19:50:30+00:00"
+    "scanned_at": "2026-11-23T16:46:13+00:00"
   },
   "aimeos/ai-client-html": {
     "ai": "none",
@@ -12279,7 +12279,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T21:36:00+00:00"
+    "scanned_at": "2026-11-23T16:46:13+00:00"
   },
   "aviatesk/JET.jl": {
     "ai": "none",
@@ -13832,7 +13832,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-10T23:05:44+00:00"
+    "scanned_at": "2026-11-23T16:46:13+00:00"
   },
   "carla-simulator/carla": {
     "ai": "none",
@@ -16011,7 +16011,7 @@
     "files": [
       ".github/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T11:26:58+00:00"
+    "scanned_at": "2026-11-23T16:46:13+00:00"
   },
   "dd-center/vtbs.moe": {
     "ai": "none",
@@ -18167,6 +18167,17 @@
     "dco": false,
     "files": [],
     "scanned_at": "2026-11-17T15:14:29+00:00"
+  },
+  "erkamyaman/rust-anything": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/pull_request_template.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-11-23T16:46:13+00:00"
   },
   "erlang/otp": {
     "ai": "none",
@@ -22685,7 +22696,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-10T01:25:01+00:00"
+    "scanned_at": "2026-11-23T16:46:14+00:00"
   },
   "icerockdev/moko-resources": {
     "ai": "none",
@@ -23060,6 +23071,14 @@
       "CONTRIBUTING.md"
     ],
     "scanned_at": "2026-11-17T15:14:59+00:00"
+  },
+  "inkle/ink": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [],
+    "scanned_at": "2026-11-23T16:46:14+00:00"
   },
   "input-output-hk/haskell.nix": {
     "ai": "none",
@@ -31053,7 +31072,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-25T20:09:24+00:00"
+    "scanned_at": "2026-11-23T16:46:14+00:00"
   },
   "openemr/openemr": {
     "ai": "disclose",
