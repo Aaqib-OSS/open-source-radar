@@ -1,8 +1,8 @@
 # Science and research issues
 
-**77** open issues (28 labeled for beginners) across **18** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
+**78** open issues (29 labeled for beginners) across **18** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-11-23 16:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-24 04:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -11,6 +11,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Android builds need tests enabled](https://github.com/OpenRCT2/OpenRCT2/issues/7717) 💬 6 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.6k | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/OpenRCT2/OpenRCT2/blob/HEAD/CONTRIBUTING.md) |
+| [Scripts and pause mode](https://github.com/OpenTTD/OpenTTD/issues/5283) 💬 3 | [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) | 8.5k | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/OpenTTD/OpenTTD/blob/HEAD/CONTRIBUTING.md) |
 | [Support multiple PDF pages for maps](https://github.com/kylecorry31/Trail-Sense/issues/913) | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-21 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
 | [Slightly rework UV and oxygen tolerance tooltips to match the new feature changes](https://github.com/Revolutionary-Games/Thrive/issues/7537) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-11-18 | 📄 AI policy · [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [Low battery alerts](https://github.com/kylecorry31/Trail-Sense/issues/2413) | [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) | 3k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/kylecorry31/Trail-Sense/blob/HEAD/CONTRIBUTING.md) |
