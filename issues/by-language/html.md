@@ -1,10 +1,10 @@
 # HTML issues
 
-**94** open issues (33 labeled for beginners) across **30** active HTML projects.
+**92** open issues (33 labeled for beginners) across **30** active HTML projects.
 
 [HTML quickstart](../../languages/html-css.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-11-24 16:50 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-25 02:16 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Add higher-level ops (mark_intersection / label) so the model doesn't compute coordinates](https://github.com/molly554/whiteboard-ai-tutor/issues/7) 💬 2 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 561 | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
-| [Document player font fallback on macOS or Linux](https://github.com/molly554/whiteboard-ai-tutor/issues/5) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 561 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
-| [Improve accessible descriptions for the Pythagorean-theorem examples](https://github.com/molly554/whiteboard-ai-tutor/issues/4) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 561 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Add higher-level ops (mark_intersection / label) so the model doesn't compute coordinates](https://github.com/molly554/whiteboard-ai-tutor/issues/7) 💬 2 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 564 | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Document player font fallback on macOS or Linux](https://github.com/molly554/whiteboard-ai-tutor/issues/5) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 564 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Improve accessible descriptions for the Pythagorean-theorem examples](https://github.com/molly554/whiteboard-ai-tutor/issues/4) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 564 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
 | [Allow favicons in formats other than svg](https://github.com/imfing/hextra/issues/888) 💬 3 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-11-20 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Confirm new ubuntu-latest GH runner image is fine](https://github.com/mozilla/bedrock/issues/17386) 💬 2 | [mozilla/bedrock](https://github.com/mozilla/bedrock) | 1.3k | 🟡 help wanted | 2026-11-20 | [📘 guide](https://github.com/mozilla/bedrock/blob/HEAD/.github/CONTRIBUTING.md) |
 | [\[Initiative\]: Cloud Native Business Continuity: whitepaper and best practices](https://github.com/cncf/toc/issues/1779) 💬 14 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-11-19 | [📘 guide](https://github.com/cncf/toc/blob/HEAD/CONTRIBUTING.md) |
@@ -23,7 +23,6 @@
 | [New scraper: 'flaag' (Florida Attorney General opinions)](https://github.com/freelawproject/juriscraper/issues/2358) | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | 666 | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/freelawproject/juriscraper/blob/HEAD/CONTRIBUTING.md) |
 | [New scraper: 'wisag' (Wisconsin Attorney General opinions)](https://github.com/freelawproject/juriscraper/issues/2398) | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | 666 | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/freelawproject/juriscraper/blob/HEAD/CONTRIBUTING.md) |
 | [New scraper: 'coloag' (Colorado Attorney General opinions)](https://github.com/freelawproject/juriscraper/issues/2404) | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | 666 | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/freelawproject/juriscraper/blob/HEAD/CONTRIBUTING.md) |
-| [\[ja\] Translate docs/reference/access-authn-authz/node.md into Japanese](https://github.com/kubernetes/website/issues/58149) 💬 8 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-11-16 | [📘 guide](https://github.com/kubernetes/website/blob/HEAD/CONTRIBUTING.md) |
 | [Gallery: contribute an HTML email newsletter to awesome-open-design](https://github.com/feimacode/open-design-agent-kit/issues/148) | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1.2k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/feimacode/open-design-agent-kit/blob/HEAD/CONTRIBUTING.md) |
 | [Gallery: contribute a business card design to awesome-open-design](https://github.com/feimacode/open-design-agent-kit/issues/147) | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1.2k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/feimacode/open-design-agent-kit/blob/HEAD/CONTRIBUTING.md) |
 | [Add a business card printer as a print house](https://github.com/feimacode/open-design-agent-kit/issues/146) | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1.2k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/feimacode/open-design-agent-kit/blob/HEAD/CONTRIBUTING.md) |
@@ -68,7 +67,6 @@
 | [Background music preview player shows incorrect progress on Windows](https://github.com/nexu-io/html-video/issues/68) 💬 27 | [nexu-io/html-video](https://github.com/nexu-io/html-video) | 4.9k | 🟡 help wanted | 2026-09-21 | ✍️ CLA · [📘 guide](https://github.com/nexu-io/html-video/blob/HEAD/CONTRIBUTING.md) |
 | [Allow disable generating full mobile navigation tree](https://github.com/imfing/hextra/issues/275) 💬 1 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-09-15 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Headscale with reverse proxy Zoraxy not working because allegedly WebSockets are not passing through](https://github.com/tobychui/zoraxy/issues/1012) 💬 9 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.6k | 🟡 help wanted | 2026-09-09 |  |
-| [(1.37) Move resource managers page to new section](https://github.com/kubernetes/website/issues/56615) 💬 4 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-09-09 | [📘 guide](https://github.com/kubernetes/website/blob/HEAD/CONTRIBUTING.md) |
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 784 | 🟢 beginner | 2026-09-08 |  |
 | [update HTTPProxy status reporting documentation](https://github.com/projectcontour/contour/issues/3144) 💬 1 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟢 beginner | 2026-08-30 | 🔏 DCO · [📘 guide](https://github.com/projectcontour/contour/blob/HEAD/CONTRIBUTING.md) |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/openfoodfacts/openfoodfacts-server/blob/HEAD/CONTRIBUTING.md) |
