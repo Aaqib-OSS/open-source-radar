@@ -1,10 +1,10 @@
 # Ruby issues
 
-**74** open issues (54 labeled for beginners) across **26** active Ruby projects.
+**76** open issues (55 labeled for beginners) across **28** active Ruby projects.
 
 [Ruby quickstart](../../languages/ruby.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-25 02:16 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-25 16:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -24,7 +24,9 @@
 | [Can't edit S3 bucket settings after creating library](https://github.com/manyfold3d/manyfold/issues/4826) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [When removing a tag from all models, a blank filter remains on reload](https://github.com/manyfold3d/manyfold/issues/3618) 💬 1 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Link-Preview / Rich Link Preview](https://github.com/manyfold3d/manyfold/issues/4642) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
+| [\[CW-2868\] Integration for Microsoft Teams](https://github.com/chatwoot/chatwoot/issues/1655) 💬 13 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40.6k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
 | [Debug for SMTP on system's tenants](https://github.com/decidim/decidim/issues/6544) 💬 3 | [decidim/decidim](https://github.com/decidim/decidim) | 1.9k | 🟢 beginner | 2026-11-04 |  |
+| [\[BUG\]: Comments parsed in PRs in Contributions tab](https://github.com/24pullrequests/24pullrequests/issues/3533) 💬 3 | [24pullrequests/24pullrequests](https://github.com/24pullrequests/24pullrequests) | 1.7k | 🟡 help wanted | 2026-11-04 | [📘 guide](https://github.com/24pullrequests/24pullrequests/blob/HEAD/CONTRIBUTING.md) |
 | [Cortex XQL](https://github.com/github-linguist/linguist/issues/7304) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
 | [Add more Learning activities](https://github.com/TarteelAI/quranic-universal-library/issues/250) | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |
 | [Add Qalun data](https://github.com/TarteelAI/quranic-universal-library/issues/245) 💬 1 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-11-01 |  |

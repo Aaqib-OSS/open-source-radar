@@ -83,7 +83,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-25T19:41:33+00:00"
+    "scanned_at": "2026-11-25T16:21:26+00:00"
   },
   "26F-Studio/Techmino": {
     "ai": "none",
@@ -224,7 +224,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-18T14:45:46+00:00"
+    "scanned_at": "2026-11-25T16:21:26+00:00"
   },
   "AI4Finance-Foundation/FinGPT": {
     "ai": "none",
@@ -2494,7 +2494,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-09T08:37:28+00:00"
+    "scanned_at": "2026-11-25T16:21:26+00:00"
   },
   "Eventual-Inc/Daft": {
     "ai": "disclose",
@@ -8803,7 +8803,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-11-12T00:07:03+00:00"
+    "scanned_at": "2026-11-25T16:21:26+00:00"
   },
   "Twigpine/openclaude": {
     "ai": "policy",
@@ -8914,7 +8914,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-25T19:49:35+00:00"
+    "scanned_at": "2026-11-25T16:21:26+00:00"
   },
   "UnboundTechCo/defyxVPN": {
     "ai": "none",
@@ -9318,7 +9318,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-18T14:45:46+00:00"
+    "scanned_at": "2026-11-25T16:21:26+00:00"
   },
   "WordPress/gutenberg": {
     "ai": "disclose",
@@ -14261,7 +14261,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-17T15:14:05+00:00"
+    "scanned_at": "2026-11-25T16:21:27+00:00"
   },
   "cheaper-inference/OmniRoute": {
     "ai": "policy",
@@ -14833,7 +14833,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-18T14:45:46+00:00"
+    "scanned_at": "2026-11-25T16:21:27+00:00"
   },
   "coil-kt/coil": {
     "ai": "none",
@@ -23629,7 +23629,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-18T14:45:46+00:00"
+    "scanned_at": "2026-11-25T16:21:27+00:00"
   },
   "jaywcjlove/awesome-mac": {
     "ai": "policy",
@@ -24335,7 +24335,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-18T14:45:46+00:00"
+    "scanned_at": "2026-11-25T16:21:27+00:00"
   },
   "jupyter/jupyter": {
     "ai": "none",
@@ -27227,7 +27227,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-18T14:45:46+00:00"
+    "scanned_at": "2026-11-25T16:21:27+00:00"
   },
   "mchakravarty/CodeEditorView": {
     "ai": "none",
@@ -29592,7 +29592,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-10T11:53:53+00:00"
+    "scanned_at": "2026-11-25T16:21:27+00:00"
   },
   "neurocyte/flow": {
     "ai": "none",
@@ -31498,7 +31498,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-18T14:45:47+00:00"
+    "scanned_at": "2026-11-25T16:21:28+00:00"
   },
   "opulo-inc/lumenpnp": {
     "ai": "none",
@@ -32044,7 +32044,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-18T14:45:47+00:00"
+    "scanned_at": "2026-11-25T16:21:28+00:00"
   },
   "pardeike/Harmony": {
     "ai": "none",
@@ -42346,7 +42346,7 @@
     "files": [
       ".github/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-27T11:27:29+00:00"
+    "scanned_at": "2026-11-25T16:21:28+00:00"
   },
   "yoavbls/pretty-ts-errors": {
     "ai": "none",
