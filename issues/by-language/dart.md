@@ -1,10 +1,10 @@
 # Dart issues
 
-**60** open issues (22 labeled for beginners) across **31** active Dart projects.
+**61** open issues (22 labeled for beginners) across **32** active Dart projects.
 
 [Dart quickstart](../../languages/dart.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-11-25 16:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-26 01:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -21,7 +21,7 @@
 | [Quick search: semantic search](https://github.com/linagora/tmail-flutter/issues/2364) 💬 5 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 670 | 🟢 beginner | 2026-11-14 |  |
 | [\[FEAT\] Add transactions from incoming SMS](https://github.com/flow-mn/flow/issues/673) 💬 7 | [flow-mn/flow](https://github.com/flow-mn/flow) | 524 | 🟡 help wanted | 2026-11-14 | 📄 AI policy · [📘 guide](https://github.com/flow-mn/flow/blob/HEAD/CONTRIBUTING.md) |
 | [\[Flatpak\] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 7 | [ente/ente](https://github.com/ente/ente) | 30.5k | 🟡 help wanted | 2026-11-12 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |
-| [allow customizing the quick-access symbol bar.](https://github.com/freeCodeCamp/mobile/issues/1661) 💬 2 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 588 | 🟡 help wanted | 2026-11-12 |  |
+| [allow customizing the quick-access symbol bar.](https://github.com/freeCodeCamp/mobile/issues/1661) 💬 2 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 589 | 🟡 help wanted | 2026-11-12 |  |
 | [Add quick stats on the % of NOVA 4 products in a list](https://github.com/openfoodfacts/smooth-app/issues/6274) 💬 14 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.5k | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
 | [Add WiFi password share with QR-Code](https://github.com/cogwheel0/luci-mobile/issues/37) 💬 2 | [cogwheel0/luci-mobile](https://github.com/cogwheel0/luci-mobile) | 746 | 🟢 beginner | 2026-11-11 | [📘 guide](https://github.com/cogwheel0/luci-mobile/blob/HEAD/CONTRIBUTING.md) |
 | [Product addition (tracker)](https://github.com/openfoodfacts/smooth-app/issues/1379) 💬 18 | [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) | 1.5k | 🟢 beginner | 2026-11-07 | [📘 guide](https://github.com/openfoodfacts/smooth-app/blob/HEAD/CONTRIBUTING.md) |
@@ -46,10 +46,10 @@
 | ['&gt;' is shown next to non-expandable fields](https://github.com/flutter/devtools/issues/5377) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [File selection text field does not feel like a fully featured text input](https://github.com/flutter/devtools/issues/5337) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
 | [Clean up feature controllers in Performance page](https://github.com/flutter/devtools/issues/5100) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-10-15 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/flutter/devtools/blob/HEAD/CONTRIBUTING.md) |
-| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 100.8k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
+| [Port to KaiOS](https://github.com/localsend/localsend/issues/1511) 💬 4 | [localsend/localsend](https://github.com/localsend/localsend) | 100.9k | 🟡 help wanted | 2026-10-10 | [📘 guide](https://github.com/localsend/localsend/blob/HEAD/CONTRIBUTING.md) |
 | [English translation](https://github.com/bepass-org/oblivion/issues/171) 💬 2 | [bepass-org/oblivion](https://github.com/bepass-org/oblivion) | 4.9k | 🟡 help wanted | 2026-10-09 |  |
 | [\[Feature Request\] implement a flickering method to introduce grayscale](https://github.com/fossasia/badgemagic-app/issues/1671) 💬 5 | [fossasia/badgemagic-app](https://github.com/fossasia/badgemagic-app) | 2k | 🟡 help wanted | 2026-10-08 |  |
-| [\[FR\] press Enter anywhere in the grid view to add a new row / shift + enter a new line](https://github.com/AppFlowy-IO/AppFlowy/issues/3074) 💬 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 79.5k | 🟡 help wanted | 2026-09-29 |  |
+| [\[FR\] press Enter anywhere in the grid view to add a new row / shift + enter a new line](https://github.com/AppFlowy-IO/AppFlowy/issues/3074) 💬 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 79.6k | 🟡 help wanted | 2026-09-29 |  |
 | [Docs: migrating from library X](https://github.com/felangel/bloc/issues/1837) 💬 1 | [felangel/bloc](https://github.com/felangel/bloc) | 12.5k | 🟢 beginner | 2026-09-29 | [📘 guide](https://github.com/felangel/bloc/blob/HEAD/CONTRIBUTING.md) |
 | [Feature: Self-hosted sync server](https://github.com/simonoppowa/OpenNutriTracker/issues/79) 💬 5 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 3k | 🟡 help wanted | 2026-09-27 | [📘 guide](https://github.com/simonoppowa/OpenNutriTracker/blob/HEAD/CONTRIBUTING.md) |
 | [Submit OpenNutriTracker to the F-Droid repository](https://github.com/simonoppowa/OpenNutriTracker/issues/575) 💬 4 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 3k | 🟢 beginner | 2026-09-27 | [📘 guide](https://github.com/simonoppowa/OpenNutriTracker/blob/HEAD/CONTRIBUTING.md) |
@@ -60,6 +60,7 @@
 | [\[Bug\] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 670 | 🟢 beginner | 2026-08-29 |  |
 | [\[Feature\] New icons set](https://github.com/RIP-Comm/sossoldi/issues/535) 💬 1 | [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) | 1.4k | 🟢 beginner | 2026-08-27 |  |
 | [Joplin integration](https://github.com/LinwoodDev/Butterfly/issues/253) 💬 3 | [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | 2.1k | 🟢 beginner | 2026-08-23 | [📘 guide](https://github.com/LinwoodDev/Butterfly/blob/HEAD/CONTRIBUTING.md) |
+| [适配鸿蒙5（需要帮助）](https://github.com/lollipopkit/flutter_server_box/issues/869) 💬 4 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 9.1k | 🟡 help wanted | 2026-08-22 | ✍️ CLA · [📘 guide](https://github.com/lollipopkit/flutter_server_box/blob/HEAD/CONTRIBUTING.md) |
 | [Refresh button for manage application page](https://github.com/ubuntu/app-center/issues/2027) | [ubuntu/app-center](https://github.com/ubuntu/app-center) | 945 | 🟢 beginner | 2026-08-17 | ✍️ CLA · [📘 guide](https://github.com/ubuntu/app-center/blob/HEAD/CONTRIBUTING.md) |
 | [Adding a pointer beside the bar rod.](https://github.com/imaNNeo/fl_chart/issues/1480) 💬 6 | [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) | 7.6k | 🟢 beginner | 2026-08-15 | [📘 guide](https://github.com/imaNNeo/fl_chart/blob/HEAD/CONTRIBUTING.md) |
 | [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 30.5k | 🟢 beginner | 2026-08-11 | [📘 guide](https://github.com/ente/ente/blob/HEAD/CONTRIBUTING.md) |

@@ -1,10 +1,10 @@
 # Julia issues
 
-**48** open issues (35 labeled for beginners) across **16** active Julia projects.
+**49** open issues (36 labeled for beginners) across **16** active Julia projects.
 
 [Julia quickstart](../../languages/julia.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-11-25 16:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-26 01:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,6 +14,7 @@
 | --- | --- | ---: | --- | --- | --- |
 | ['collect' returns 'Vector{Any}' for 'Iterators.reverse(::Stack)', 'zip(::SparseIntSet...)' and 'partial_path'](https://github.com/JuliaCollections/DataStructures.jl/issues/1000) | [JuliaCollections/DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) | 747 | 🟢 beginner | 2026-11-24 |  |
 | [Option for whitespace surrounding parenthesis/brackets?](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1084) 💬 2 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 649 | 🟢 beginner | 2026-11-10 |  |
+| [Document Mem.pin more explicitly to make it more findable](https://github.com/JuliaGPU/CUDA.jl/issues/1570) 💬 1 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-11-04 |  |
 | [Roadmap and ideas for Molly.jl development](https://github.com/JuliaMolSim/Molly.jl/issues/2) 💬 53 | [JuliaMolSim/Molly.jl](https://github.com/JuliaMolSim/Molly.jl) | 503 | 🟢 beginner | 2026-10-27 |  |
 | [Improve reinterpret docstring](https://github.com/JuliaLang/julia/issues/47706) 💬 3 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.3k | 🟡 help wanted | 2026-10-19 | 🤖 disclose AI use · [📘 guide](https://github.com/JuliaLang/julia/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Determinant Function](https://github.com/JuliaGPU/CUDA.jl/issues/110) 💬 10 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1.4k | 🟢 beginner | 2026-10-19 |  |

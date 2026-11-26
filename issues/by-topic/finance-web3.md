@@ -2,7 +2,7 @@
 
 **42** open issues (21 labeled for beginners) across **11** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `cryptocurrenc`.
 
-> Updated automatically on **2026-11-25 16:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-26 01:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -20,7 +20,7 @@
 | [Implement TD Sequential Candlestick Indicator](https://github.com/QuantConnect/Lean/issues/6620) 💬 3 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.7k | 🟢 beginner | 2026-10-28 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\]: Android tablet category select broken](https://github.com/actualbudget/actual/issues/6401) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 30.5k | 🟡 help wanted | 2026-10-14 | 🤖 disclose AI use · [📘 guide](https://github.com/actualbudget/actual/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\] Define point-in-time universe contract and snapshot model](https://github.com/OpenByteInc/QuantDinger/issues/258) 💬 1 | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 14k | 🟡 help wanted | 2026-10-09 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |
-| [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 1 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.7k | 🟢 beginner | 2026-10-06 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
+| [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 2 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22.7k | 🟢 beginner | 2026-10-06 | [📘 guide](https://github.com/QuantConnect/Lean/blob/HEAD/CONTRIBUTING.md) |
 | [\[Roadmap\] External signals and point-in-time strategy gates](https://github.com/OpenByteInc/QuantDinger/issues/256) | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 14k | 🟡 help wanted | 2026-09-19 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\] Specify multi-leg execution state machine and recovery matrix](https://github.com/OpenByteInc/QuantDinger/issues/260) | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 14k | 🟡 help wanted | 2026-09-18 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |
 | [\[RFC\] Define pair/spread identity and lifecycle contract](https://github.com/OpenByteInc/QuantDinger/issues/259) | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | 14k | 🟡 help wanted | 2026-09-18 | 🔏 DCO · [📘 guide](https://github.com/OpenByteInc/QuantDinger/blob/HEAD/CONTRIBUTING.md) |

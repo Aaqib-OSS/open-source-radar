@@ -1,10 +1,10 @@
 # PowerShell issues
 
-**22** open issues (11 labeled for beginners) across **8** active PowerShell projects.
+**23** open issues (11 labeled for beginners) across **8** active PowerShell projects.
 
 [PowerShell quickstart](../../languages/powershell.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/powershell.xml)
 
-> Updated automatically on **2026-11-25 16:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-26 01:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [qbittorrent@5.3.1: hash check failed](https://github.com/ScoopInstaller/Extras/issues/19517) 💬 2 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-25 |  |
 | [inkscape@1.4.4: hash check failed](https://github.com/ScoopInstaller/Extras/issues/19512) 💬 1 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-25 |  |
 | [q-dir@12.85: download failed](https://github.com/ScoopInstaller/Extras/issues/19461) 💬 5 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-23 |  |
 | [pov-ray@3.7.0: download failed](https://github.com/ScoopInstaller/Extras/issues/19428) 💬 4 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2.2k | 🟡 help wanted | 2026-11-20 |  |

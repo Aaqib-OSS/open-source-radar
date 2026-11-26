@@ -1,10 +1,10 @@
 # PHP issues
 
-**126** open issues (64 labeled for beginners) across **41** active PHP projects.
+**128** open issues (66 labeled for beginners) across **41** active PHP projects.
 
 [PHP quickstart](../../languages/php.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-11-25 16:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-26 01:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Missing translations for Standard Moroccan Tamazight (zgh)](https://github.com/symfony/symfony/issues/68435) | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-11-25 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
+| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-11-25 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [How to make repeated attempts with progressive delay?](https://github.com/yiisoft/yii2-queue/issues/143) 💬 25 | [yiisoft/yii2-queue](https://github.com/yiisoft/yii2-queue) | 1.1k | 🟡 help wanted | 2026-11-25 | [📘 guide](https://github.com/yiisoft/yii2-queue/blob/HEAD/.github/CONTRIBUTING.md) |
-| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.5k | 🟢 beginner | 2026-11-24 | [📘 guide](https://github.com/symfony/symfony/blob/HEAD/CONTRIBUTING.md) |
 | [MVC migration: FamilyCustomFieldsEditor](https://github.com/ChurchCRM/CRM/issues/11513) 💬 2 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-24 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [\[Bug\] Simplepie destroys headers with a JSON value](https://github.com/FreshRSS/FreshRSS/issues/8636) 💬 1 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.7k | 🟡 help wanted | 2026-11-23 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |
 | [Customer profile: show the mailbox of each conversation](https://github.com/freescout-help-desk/freescout/issues/5837) 💬 1 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.7k | 🟡 help wanted | 2026-11-23 |  |
@@ -41,6 +42,7 @@
 | [Reset Password Notifications](https://github.com/ChurchCRM/CRM/issues/2238) 💬 8 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Use Cart to Set Properties](https://github.com/ChurchCRM/CRM/issues/4355) 💬 3 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Flag members in printed Directory](https://github.com/ChurchCRM/CRM/issues/4615) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
+| [Create New Admin account on successful installation.](https://github.com/ChurchCRM/CRM/issues/5327) 💬 6 | [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) | 1k | 🟢 beginner | 2026-11-14 | [📘 guide](https://github.com/ChurchCRM/CRM/blob/HEAD/CONTRIBUTING.md) |
 | [Enable import-extension and TypeScript type-import rules](https://github.com/LibreSign/libresign/issues/9501) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 852 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [Enable import sorting while preserving import side effects](https://github.com/LibreSign/libresign/issues/9500) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 852 | 🟡 help wanted | 2026-11-14 | 🤖 disclose AI use · 🔏 DCO · [📘 guide](https://github.com/LibreSign/libresign/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]Subscribe FreshRSS's logs itself as rss](https://github.com/FreshRSS/FreshRSS/issues/6839) 💬 3 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.7k | 🟡 help wanted | 2026-11-09 | [📘 guide](https://github.com/FreshRSS/FreshRSS/blob/HEAD/CONTRIBUTING.md) |

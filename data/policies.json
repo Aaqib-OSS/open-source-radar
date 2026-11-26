@@ -13515,7 +13515,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-02T14:20:46+00:00"
+    "scanned_at": "2026-11-26T01:42:28+00:00"
   },
   "bytedance/UI-TARS-desktop": {
     "ai": "none",
@@ -14273,7 +14273,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-19T00:07:17+00:00"
+    "scanned_at": "2026-11-26T01:42:28+00:00"
   },
   "checkstyle/checkstyle": {
     "ai": "none",
@@ -17077,7 +17077,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-19T00:07:17+00:00"
+    "scanned_at": "2026-11-26T01:42:28+00:00"
   },
   "dotnet/runtime": {
     "ai": "none",
@@ -26328,7 +26328,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-10-26T22:08:43+00:00"
+    "scanned_at": "2026-11-26T01:42:28+00:00"
   },
   "longhorn/longhorn": {
     "ai": "none",
@@ -28064,7 +28064,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-18T14:45:47+00:00"
+    "scanned_at": "2026-11-26T01:42:28+00:00"
   },
   "microsoft/terminal": {
     "ai": "disclose",
@@ -33379,7 +33379,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-10T23:06:08+00:00"
+    "scanned_at": "2026-11-26T01:42:28+00:00"
   },
   "pwntester/octo.nvim": {
     "ai": "none",
@@ -38368,7 +38368,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-11-19T00:07:17+00:00"
+    "scanned_at": "2026-11-26T01:42:29+00:00"
   },
   "taffybar/taffybar": {
     "ai": "none",
@@ -39336,7 +39336,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-19T00:07:17+00:00"
+    "scanned_at": "2026-11-26T01:42:29+00:00"
   },
   "toon-format/toon": {
     "ai": "none",
@@ -40091,7 +40091,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-11-19T00:07:17+00:00"
+    "scanned_at": "2026-11-26T01:42:29+00:00"
   },
   "ublue-os/ucore": {
     "ai": "none",
