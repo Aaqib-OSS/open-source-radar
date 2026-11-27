@@ -1,10 +1,10 @@
 # Ruby issues
 
-**77** open issues (55 labeled for beginners) across **28** active Ruby projects.
+**76** open issues (54 labeled for beginners) across **27** active Ruby projects.
 
 [Ruby quickstart](../../languages/ruby.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-11-27 01:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-27 15:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -25,7 +25,7 @@
 | [Can't edit S3 bucket settings after creating library](https://github.com/manyfold3d/manyfold/issues/4826) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [When removing a tag from all models, a blank filter remains on reload](https://github.com/manyfold3d/manyfold/issues/3618) 💬 1 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Link-Preview / Rich Link Preview](https://github.com/manyfold3d/manyfold/issues/4642) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-11-07 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
-| [\[CW-2868\] Integration for Microsoft Teams](https://github.com/chatwoot/chatwoot/issues/1655) 💬 13 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40.6k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
+| [\[CW-2868\] Integration for Microsoft Teams](https://github.com/chatwoot/chatwoot/issues/1655) 💬 13 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40.7k | 🟢 beginner | 2026-11-04 | [📘 guide](https://github.com/chatwoot/chatwoot/blob/HEAD/CONTRIBUTING.md) |
 | [Debug for SMTP on system's tenants](https://github.com/decidim/decidim/issues/6544) 💬 3 | [decidim/decidim](https://github.com/decidim/decidim) | 1.9k | 🟢 beginner | 2026-11-04 |  |
 | [\[BUG\]: Comments parsed in PRs in Contributions tab](https://github.com/24pullrequests/24pullrequests/issues/3533) 💬 3 | [24pullrequests/24pullrequests](https://github.com/24pullrequests/24pullrequests) | 1.7k | 🟡 help wanted | 2026-11-04 | [📘 guide](https://github.com/24pullrequests/24pullrequests/blob/HEAD/CONTRIBUTING.md) |
 | [Cortex XQL](https://github.com/github-linguist/linguist/issues/7304) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.8k | 🟢 beginner | 2026-11-03 | [📘 guide](https://github.com/github-linguist/linguist/blob/HEAD/CONTRIBUTING.md) |
@@ -56,7 +56,6 @@
 | [Etc.uname needs a native version](https://github.com/jruby/jruby/issues/2145) 💬 12 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-09-04 | ⚠️ AI restricted · [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
 | [Revisit Style/EmptyCaseCondition?](https://github.com/rubocop/rubocop/issues/8396) 💬 4 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | 12.9k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use · [📘 guide](https://github.com/rubocop/rubocop/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature Request\] Dark Mode](https://github.com/endoflife-date/endoflife.date/issues/1187) 💬 10 | [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) | 3.5k | 🟢 beginner | 2026-08-28 | [📘 guide](https://github.com/endoflife-date/endoflife.date/blob/HEAD/CONTRIBUTING.md) |
-| [\[Request\] Generate policy file when using scaffolding](https://github.com/varvet/pundit/issues/735) 💬 5 | [varvet/pundit](https://github.com/varvet/pundit) | 8.5k | 🟢 beginner | 2026-08-15 | [📘 guide](https://github.com/varvet/pundit/blob/HEAD/CONTRIBUTING.md) |
 | [Make a performance comparison between replacing Turbolinks (plus rails-ujs) with Turbo and dropping it entire…](https://github.com/consuldemocracy/consuldemocracy/issues/5485) | [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy) | 1.6k | 🟡 help wanted | 2026-08-14 | [📘 guide](https://github.com/consuldemocracy/consuldemocracy/blob/HEAD/CONTRIBUTING.md) |
 | [Add Warsh Qirat Data to QUL](https://github.com/TarteelAI/quranic-universal-library/issues/131) 💬 3 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-08-08 |  |
 | [Use largest thumbnail image from GCODE files](https://github.com/manyfold3d/manyfold/issues/6407) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-07-31 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
@@ -76,7 +75,7 @@
 | [class com.sun.nio.file.ExtendedOpenOption cannot access class jdk.internal.misc.FileSystemOption](https://github.com/jruby/jruby/issues/7835) 💬 7 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-07-09 | ⚠️ AI restricted · [📘 guide](https://github.com/jruby/jruby/blob/HEAD/CONTRIBUTING.md) |
 | [Links in Description](https://github.com/manyfold3d/manyfold/issues/4944) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-07-08 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Support 'distinct' when it comes to further association chaining](https://github.com/neo4jrb/activegraph/issues/1340) 💬 3 | [neo4jrb/activegraph](https://github.com/neo4jrb/activegraph) | 1.4k | 🟢 beginner | 2026-07-06 | [📘 guide](https://github.com/neo4jrb/activegraph/blob/HEAD/CONTRIBUTING.md) |
-| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 600 | 🟢 beginner | 2026-06-30 |  |
+| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 601 | 🟢 beginner | 2026-06-30 |  |
 | [Disown CTA has unique focus and hover effect](https://github.com/lobsters/lobsters/issues/2099) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-06-24 | [📘 guide](https://github.com/lobsters/lobsters/blob/HEAD/CONTRIBUTING.md) |
 | [Create Huginn iPhone / Android app](https://github.com/huginn/huginn/issues/166) 💬 19 | [huginn/huginn](https://github.com/huginn/huginn) | 50.7k | 🟡 help wanted | 2026-06-20 | [📘 guide](https://github.com/huginn/huginn/blob/HEAD/CONTRIBUTING.md) |
 | [add also "open in Anycubic Slicer Next"](https://github.com/manyfold3d/manyfold/issues/5823) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.3k | 🟢 beginner | 2026-06-19 | 📄 AI policy · ✍️ CLA · [📘 guide](https://github.com/manyfold3d/manyfold/blob/HEAD/.github/CONTRIBUTING.md) |

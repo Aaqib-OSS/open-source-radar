@@ -2,7 +2,7 @@
 
 **80** open issues (31 labeled for beginners) across **24** projects tagged with topics like `documentation`, `education`, `learning`, `tutorial`, `awesome`, `awesome-list`.
 
-> Updated automatically on **2026-11-27 01:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-27 15:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -11,9 +11,9 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Failed mixed saves leave Learn Ahead out of sync](https://github.com/ankidroid/Anki-Android/issues/23290) 💬 6 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 12.3k | 🟡 help wanted | 2026-11-25 | 🤖 disclose AI use · [📘 guide](https://github.com/ankidroid/Anki-Android/blob/HEAD/CONTRIBUTING.md) |
-| [Add higher-level ops (mark_intersection / label) so the model doesn't compute coordinates](https://github.com/molly554/whiteboard-ai-tutor/issues/7) 💬 2 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 573 | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
-| [Document player font fallback on macOS or Linux](https://github.com/molly554/whiteboard-ai-tutor/issues/5) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 573 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
-| [Improve accessible descriptions for the Pythagorean-theorem examples](https://github.com/molly554/whiteboard-ai-tutor/issues/4) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 573 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Add higher-level ops (mark_intersection / label) so the model doesn't compute coordinates](https://github.com/molly554/whiteboard-ai-tutor/issues/7) 💬 2 | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 575 | 🟡 help wanted | 2026-11-24 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Document player font fallback on macOS or Linux](https://github.com/molly554/whiteboard-ai-tutor/issues/5) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 575 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
+| [Improve accessible descriptions for the Pythagorean-theorem examples](https://github.com/molly554/whiteboard-ai-tutor/issues/4) | [molly554/whiteboard-ai-tutor](https://github.com/molly554/whiteboard-ai-tutor) | 575 | 🟢 beginner | 2026-11-23 | [📘 guide](https://github.com/molly554/whiteboard-ai-tutor/blob/HEAD/CONTRIBUTING.md) |
 | [\[BUG\] sockops port error](https://github.com/eunomia-bpf/bpf-developer-tutorial/issues/115) 💬 3 | [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | 4.3k | 🟡 help wanted | 2026-11-20 |  |
 | [学习29-sockops遇到报错“iperf3: error - unable to send control message: Permission denied](https://github.com/eunomia-bpf/bpf-developer-tutorial/issues/117) 💬 4 | [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | 4.3k | 🟢 beginner | 2026-11-20 |  |
 | [Allow favicons in formats other than svg](https://github.com/imfing/hextra/issues/888) 💬 3 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-11-20 | [📘 guide](https://github.com/imfing/hextra/blob/HEAD/.github/CONTRIBUTING.md) |
