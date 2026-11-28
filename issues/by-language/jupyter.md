@@ -1,10 +1,10 @@
 # Jupyter Notebook issues
 
-**14** open issues (9 labeled for beginners) across **9** active Jupyter Notebook projects.
+**15** open issues (10 labeled for beginners) across **10** active Jupyter Notebook projects.
 
 [Jupyter Notebook quickstart](../../languages/jupyter.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/jupyter.xml)
 
-> Updated automatically on **2026-11-27 15:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 01:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,6 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Hub Contributions Ideas](https://github.com/apache/hamilton/issues/559) 💬 3 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-11-12 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
+| [Bug on display of labels of plot.features importances](https://github.com/MAIF/shapash/issues/282) 💬 2 | [MAIF/shapash](https://github.com/MAIF/shapash) | 3.3k | 🟢 beginner | 2026-11-06 | [📘 guide](https://github.com/MAIF/shapash/blob/HEAD/CONTRIBUTING.md) |
 | [Make default deviation depend on baudrate](https://github.com/daniestevez/gr-satellites/issues/612) 💬 2 | [daniestevez/gr-satellites](https://github.com/daniestevez/gr-satellites) | 1k | 🟢 beginner | 2026-10-17 | [📘 guide](https://github.com/daniestevez/gr-satellites/blob/HEAD/CONTRIBUTING.md) |
 | [Add example integration with Hamilton](https://github.com/evidentlyai/evidently/issues/802) 💬 2 | [evidentlyai/evidently](https://github.com/evidentlyai/evidently) | 8.1k | 🟡 help wanted | 2026-10-09 | [📘 guide](https://github.com/evidentlyai/evidently/blob/HEAD/CONTRIBUTING.md) |
 | [\[documentation\] show how to get hamilton running on snowpark](https://github.com/apache/hamilton/issues/56) 💬 4 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-10-02 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
