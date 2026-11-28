@@ -28,7 +28,8 @@ BOT_TITLES = re.compile(r"link checker report|dependency dashboard|renovate|brok
 
 
 def readable_title(title: str) -> bool:
-    words = re.sub(r"\[[^\]]*\]", "", title).strip()
+    # Collapse the gaps tags leave mid-title, or "Fix [a] [b] [c] [d] typo" would pass on spaces alone.
+    words = " ".join(re.sub(r"\[[^\]]*\]", " ", title).split())
     return len(words) >= 12 and not BOT_TITLES.search(title)
 
 
