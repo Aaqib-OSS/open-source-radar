@@ -51,7 +51,7 @@ class WeeklyDigestTests(unittest.TestCase):
                 "f/retried": repo(500),
             },
         )
-        self.assertEqual([i["number"] for i in wd.pick(payload, TODAY)], [2, 1])
+        self.assertEqual([i["number"] for i in wd.pick(payload, TODAY)], [3, 1])
 
     def test_skips_projects_that_rarely_merge_outside_prs(self):
         payload = self.payload(
@@ -59,6 +59,26 @@ class WeeklyDigestTests(unittest.TestCase):
             {"a/closed": repo(10, merge_rate=0.05), "b/unknown": {"stars": 5, "language": None, "external_prs": None}},
         )
         self.assertEqual([i["number"] for i in wd.pick(payload, TODAY)], [2])
+
+    def test_picks_the_newest_eligible_issue_for_each_project(self):
+        payload = self.payload(
+            [
+                issue("a/large", 1, created="2026-10-27"),
+                issue("a/large", 2, created="2026-10-31"),
+                issue("a/large", 3, created="2026-11-01", closed_pr=True),
+                issue("b/small", 4, created="2026-11-01"),
+            ],
+            {"a/large": repo(1000), "b/small": repo(10)},
+        )
+
+        self.assertEqual([item["number"] for item in wd.pick(payload, TODAY)], [2, 4])
+
+    def test_same_day_issues_prefer_the_later_number(self):
+        payload = self.payload(
+            [issue("a/large", 7, created="2026-10-31"), issue("a/large", 9, created="2026-10-31")],
+            {"a/large": repo(1000)},
+        )
+        self.assertEqual([item["number"] for item in wd.pick(payload, TODAY)], [9])
 
     def test_caps_the_number_of_picks(self):
         repos = {f"o/r{n}": repo(n) for n in range(20)}
