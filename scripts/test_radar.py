@@ -952,6 +952,38 @@ class IssueTableTests(unittest.TestCase):
 
 
 class ProjectsPageTests(unittest.TestCase):
+    def test_projects_page_links_to_distinct_c_language_sections(self):
+        repositories = {
+            f"owner/{slug}": {
+                "url": f"https://github.com/owner/{slug}",
+                "language": language,
+                "stars": 1,
+                "open_count": 1,
+            }
+            for language, slug in (("C", "c"), ("C++", "cpp"), ("C#", "csharp"))
+        }
+        config = {"languages": {"C": "c", "C++": "cpp", "C#": "csharp"}}
+        with tempfile.TemporaryDirectory() as tmp, patch.object(radar, "ROOT", Path(tmp)):
+            radar.render_projects(repositories, [], config, "2026-09-13T00:00:00+00:00")
+            page = (Path(tmp) / "projects" / "README.md").read_text(encoding="utf-8")
+        for language, slug in config["languages"].items():
+            with self.subTest(language=language):
+                self.assertIn(f"[{language} (1)](#language-{slug})", page)
+                self.assertIn(f'<a name="language-{slug}"></a>\n\n## {language}\n', page)
+
+    def test_unconfigured_languages_get_distinct_anchors(self):
+        repositories = {
+            f"owner/{n}": {"url": f"https://github.com/owner/{n}", "language": language, "stars": 1, "open_count": 1}
+            for n, language in enumerate(("F", "F#", "Q#", None))
+        }
+        with tempfile.TemporaryDirectory() as tmp, patch.object(radar, "ROOT", Path(tmp)):
+            radar.render_projects(repositories, [], {"languages": {}}, "2026-09-13T00:00:00+00:00")
+            page = (Path(tmp) / "projects" / "README.md").read_text(encoding="utf-8")
+        for language, anchor in (("F", "f"), ("F#", "fsharp"), ("Q#", "qsharp"), ("Other", "other")):
+            with self.subTest(language=language):
+                self.assertIn(f"[{language} (1)](#language-{anchor})", page)
+                self.assertIn(f'<a name="language-{anchor}"></a>\n\n## {language}\n', page)
+
     def test_projects_page_groups_by_language_and_counts_beginner_issues(self):
         import pathlib
         import tempfile
@@ -1036,9 +1068,9 @@ class ProjectsPageTests(unittest.TestCase):
         self.assertIn("## Other", page)
         self.assertIn("## Jupyter Notebook", page)
         self.assertIn("## C++", page)
-        self.assertIn("[Other (2)](#other)", page)
-        self.assertIn("[Jupyter Notebook (1)](#jupyter-notebook)", page)
-        self.assertIn("[C++ (1)](#c)", page)
+        self.assertIn("[Other (2)](#language-other)", page)
+        self.assertIn("[Jupyter Notebook (1)](#language-jupyter-notebook)", page)
+        self.assertIn("[C++ (1)](#language-cplusplus)", page)
         # None and "" both count as no language and share one "Other" group, never a second one.
         self.assertEqual(page.count("## Other"), 1)
 
