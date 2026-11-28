@@ -264,6 +264,7 @@ Thank you to everyone who has made the radar better:
 - [@NawJar](https://github.com/NawJar): Arabic translation of chapter 3 ([#518](https://github.com/TanbirRamim/open-source-radar/pull/518))
 - [@snehify](https://github.com/snehify): a sun icon for light mode on the theme toggle ([#448](https://github.com/TanbirRamim/open-source-radar/pull/448))
 - [@sulimanxo0](https://github.com/sulimanxo0): the Arabic translation of chapter 4 ([#526](https://github.com/TanbirRamim/open-source-radar/pull/526))
+- [@henrivalle](https://github.com/henrivalle): escaped backslashes in digest links and tests for the digest title length ([#541](https://github.com/TanbirRamim/open-source-radar/pull/541), [#540](https://github.com/TanbirRamim/open-source-radar/pull/540))
 
 Your name goes here with your first merged pull request. And if the radar helped you, please give it a star: it's the simplest way to help other newcomers find it.
 
