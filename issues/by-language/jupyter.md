@@ -1,10 +1,10 @@
 # Jupyter Notebook issues
 
-**15** open issues (10 labeled for beginners) across **10** active Jupyter Notebook projects.
+**13** open issues (8 labeled for beginners) across **9** active Jupyter Notebook projects.
 
 [Jupyter Notebook quickstart](../../languages/jupyter.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/jupyter.xml)
 
-> Updated automatically on **2026-11-28 01:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 15:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -21,8 +21,6 @@
 | [Output cells no longer collapse completely](https://github.com/jupyter/notebook/issues/7020) 💬 16 | [jupyter/notebook](https://github.com/jupyter/notebook) | 13.5k | 🟡 help wanted | 2026-09-01 | [📘 guide](https://github.com/jupyter/notebook/blob/HEAD/CONTRIBUTING.md) |
 | [More transparent error messages when calling effect functions on un-fitted estimators](https://github.com/py-why/EconML/issues/686) 💬 1 | [py-why/EconML](https://github.com/py-why/EconML) | 4.9k | 🟡 help wanted | 2026-08-18 |  |
 | [Hacktoberfest Umbrella Issue](https://github.com/apache/hamilton/issues/1186) 💬 25 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-08-18 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |
-| [Fix broken science article links in TU Chronicles pages](https://github.com/onestardao/WFGY/issues/126) 💬 2 | [onestardao/WFGY](https://github.com/onestardao/WFGY) | 1.8k | 🟢 beginner | 2026-08-08 | [📘 guide](https://github.com/onestardao/WFGY/blob/HEAD/CONTRIBUTING.md) |
-| [Add a minimal reproducible debugging template](https://github.com/onestardao/WFGY/issues/80) 💬 1 | [onestardao/WFGY](https://github.com/onestardao/WFGY) | 1.8k | 🟢 beginner | 2026-08-08 | [📘 guide](https://github.com/onestardao/WFGY/blob/HEAD/CONTRIBUTING.md) |
 | [添加 colab 运行版本](https://github.com/walkinglabs/hands-on-modern-rl/issues/47) | [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | 5k | 🟢 beginner | 2026-07-06 | ⚠️ AI restricted |
 | [providing sample weights to glm.fit() and glm.fit.sparse()](https://github.com/tensorflow/probability/issues/252) 💬 1 | [tensorflow/probability](https://github.com/tensorflow/probability) | 4.4k | 🟢 beginner | 2026-06-22 | ✍️ CLA · [📘 guide](https://github.com/tensorflow/probability/blob/HEAD/CONTRIBUTING.md) |
 | [Combined 'extract' decorator](https://github.com/apache/hamilton/issues/121) 💬 2 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-06-19 | ✍️ CLA · [📘 guide](https://github.com/apache/hamilton/blob/HEAD/CONTRIBUTING.md) |

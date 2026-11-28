@@ -1,8 +1,8 @@
 # Accessibility issues
 
-**10** open issues (2 labeled for beginners) across **6** projects tagged with topics like `accessibility`, `a11y`, `wcag`, `aria`, `screen-reader`, `screenreader`.
+**11** open issues (2 labeled for beginners) across **6** projects tagged with topics like `accessibility`, `a11y`, `wcag`, `aria`, `screen-reader`, `screenreader`.
 
-> Updated automatically on **2026-11-28 01:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 15:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [combobox open state breaks for initially-empty async searches](https://github.com/adobe/react-spectrum/issues/2333) 💬 8 | [adobe/react-spectrum](https://github.com/adobe/react-spectrum) | 16.1k | 🟡 help wanted | 2026-11-18 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/adobe/react-spectrum/blob/HEAD/CONTRIBUTING.md) |
 | [\[Broken Website\] \[Google Workspace enterprise\] Google Meet chat breaks and has missing buttons](https://github.com/darkreader/darkreader/issues/15953) 💬 11 | [darkreader/darkreader](https://github.com/darkreader/darkreader) | 22.6k | 🟡 help wanted | 2026-11-02 | [📘 guide](https://github.com/darkreader/darkreader/blob/HEAD/CONTRIBUTING.md) |
 | [Feature Request: Resize Window with Ctrl + Mouse Scroll](https://github.com/pablopunk/SwiftShift/issues/98) 💬 4 | [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) | 670 | 🟡 help wanted | 2026-09-18 |  |
 | [Adjust CE Bomb for wide screen, add documentation](https://github.com/Fate-Grand-Automata/FGA/issues/998) 💬 33 | [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) | 2.5k | 🟡 help wanted | 2026-09-08 | [📘 guide](https://github.com/Fate-Grand-Automata/FGA/blob/HEAD/CONTRIBUTING.md) |

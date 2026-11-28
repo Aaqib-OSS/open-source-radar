@@ -1,10 +1,10 @@
 # C# issues
 
-**239** open issues (61 labeled for beginners) across **80** active C# projects.
+**239** open issues (60 labeled for beginners) across **80** active C# projects.
 
 [C# quickstart](../../languages/csharp.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-11-28 01:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 15:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Feature request: Move/prioritise backupsets](https://github.com/duplicati/duplicati/issues/2766) 💬 5 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | 🟡 help wanted | 2026-11-28 |  |
+| [lz4 as compression method](https://github.com/duplicati/duplicati/issues/2575) 💬 18 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | 🟡 help wanted | 2026-11-28 |  |
+| [NUnitLite calls .NET Core 2.0 “.NET Core 4.0.0.0”](https://github.com/nunit/nunit/issues/2435) 💬 25 | [nunit/nunit](https://github.com/nunit/nunit) | 2.6k | 🟢 beginner | 2026-11-28 | ⚠️ AI restricted · [📘 guide](https://github.com/nunit/nunit/blob/HEAD/CONTRIBUTING.md) |
 | [It looks like significance of 'allowRefOmittedArguments' and 'expanded' in 'HasCollectionExpressionApplicable…](https://github.com/dotnet/roslyn/issues/86509) 💬 5 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.8k | 🟡 help wanted | 2026-11-27 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |
 | [Reflection on enums creates instances of open generic types](https://github.com/dotnet/runtime/issues/7976) 💬 19 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.5k | 🟡 help wanted | 2026-11-26 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
-| [Introduce suppressor for CA1001 (Types that own disposable fields should be disposable)](https://github.com/dotnet/BenchmarkDotNet/issues/3357) 💬 1 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11.5k | 🟡 help wanted | 2026-11-26 | [📘 guide](https://github.com/dotnet/BenchmarkDotNet/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Represent command-line arguments primarily as 'IReadOnlyList&lt;string&gt;' instead of 'string'](https://github.com/Tyrrrz/CliWrap/issues/358) | [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) | 5k | 🟢 beginner | 2026-11-26 |  |
 | [Consider leveraging .NET 11 native Process APIs](https://github.com/Tyrrrz/CliWrap/issues/354) | [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) | 5k | 🟢 beginner | 2026-11-26 |  |
 | [\[Bug\]: Print stuck in infinite loading state on Windows 11](https://github.com/Ruben2776/PicView/issues/411) 💬 4 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.8k | 🟡 help wanted | 2026-11-26 | [📘 guide](https://github.com/Ruben2776/PicView/blob/HEAD/CONTRIBUTING.md) |
@@ -46,7 +48,6 @@
 | [Analyzer for cases when the 'Dispose()' pattern is introduced after the fact](https://github.com/dotnet/runtime/issues/70188) 💬 4 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.5k | 🟡 help wanted | 2026-11-18 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [Test failure: System.Linq.Tests.SequenceTests.Numbers_ProduceExpectedSequence](https://github.com/dotnet/runtime/issues/127125) 💬 3 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.5k | 🟡 help wanted | 2026-11-18 | ✍️ CLA · [📘 guide](https://github.com/dotnet/runtime/blob/HEAD/CONTRIBUTING.md) |
 | [Nullable DateTimeOffset .Value is executed locally in F#](https://github.com/dotnet/efcore/issues/14013) 💬 12 | [dotnet/efcore](https://github.com/dotnet/efcore) | 14.8k | 🟡 help wanted | 2026-11-18 | ✍️ CLA · [📘 guide](https://github.com/dotnet/efcore/blob/HEAD/.github/CONTRIBUTING.md) |
-| ['ToolTip.PlacementRect' is never converted to window coordinates ('TransformBounds' result is discarded)](https://github.com/unoplatform/uno/issues/26431) 💬 2 | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-18 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
 | [Slightly rework UV and oxygen tolerance tooltips to match the new feature changes](https://github.com/Revolutionary-Games/Thrive/issues/7537) | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.9k | 🟢 beginner | 2026-11-18 | 📄 AI policy · [📘 guide](https://github.com/Revolutionary-Games/Thrive/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]: Virtual bus for driver nodes with no hardware behind them](https://github.com/CosmosOS/Cosmos/issues/3333) 💬 5 | [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) | 3.2k | 🟡 help wanted | 2026-11-18 | [📘 guide](https://github.com/CosmosOS/Cosmos/blob/HEAD/CONTRIBUTING.md) |
 | [\[Feature\]: Port gen2 \[Expose\] and \[FieldAccess\] plugs to the gen3 patcher](https://github.com/CosmosOS/Cosmos/issues/3282) | [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) | 3.2k | 🟡 help wanted | 2026-11-18 | [📘 guide](https://github.com/CosmosOS/Cosmos/blob/HEAD/CONTRIBUTING.md) |
@@ -78,7 +79,6 @@
 | [MudTable: Allow changing sort direction on mobile](https://github.com/MudBlazor/MudBlazor/issues/3125) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.7k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/MudBlazor/MudBlazor/blob/HEAD/CONTRIBUTING.md) |
 | [ItemsRepeater (StackLayout) keeps a stale extent and scroll offset after items above the viewport are removed](https://github.com/unoplatform/uno/issues/26406) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
 | [TreeView: setting SelectedItem selects no node and raises no SelectionChanged when ItemsSource was set before…](https://github.com/unoplatform/uno/issues/26386) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
-| [FlipView removed from the visual tree throws "Invalid scroll offset value" when its ObservableCollection Item…](https://github.com/unoplatform/uno/issues/26373) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-11-13 | [📘 guide](https://github.com/unoplatform/uno/blob/HEAD/CONTRIBUTING.md) |
 | [Start-as-daemon/service and Create installers](https://github.com/duplicati/duplicati/issues/1270) 💬 2 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | 🟡 help wanted | 2026-11-12 |  |
 | [Add a property on WebView to set additional headers](https://github.com/dotnet/maui/issues/7920) 💬 20 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-11-11 | ✍️ CLA · [📘 guide](https://github.com/dotnet/maui/blob/HEAD/.github/CONTRIBUTING.md) |
 | [Extract component unexpected behavior when both C# and html selected](https://github.com/dotnet/roslyn/issues/85598) 💬 1 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.8k | 🟡 help wanted | 2026-11-11 | ✍️ CLA · [📘 guide](https://github.com/dotnet/roslyn/blob/HEAD/CONTRIBUTING.md) |

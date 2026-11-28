@@ -1,10 +1,10 @@
 # Lua issues
 
-**29** open issues (20 labeled for beginners) across **12** active Lua projects.
+**28** open issues (19 labeled for beginners) across **12** active Lua projects.
 
 [Lua quickstart](../../languages/lua.md) · [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-11-28 01:22 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-11-28 15:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [The key is missing from functional-index and foreign-key error payloads](https://github.com/tarantool/tarantool/issues/13818) | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-11-26 | [📘 guide](https://github.com/tarantool/tarantool/blob/HEAD/CONTRIBUTING.md) |
 | [Good First Issue: Observe Random Announcements behaviour in regular gameplay](https://github.com/CorsixTH/CorsixTH/issues/3606) | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.8k | 🟢 beginner | 2026-11-24 | [📘 guide](https://github.com/CorsixTH/CorsixTH/blob/HEAD/CONTRIBUTING.md) |
 | [\[Forever\] Questie should insert Blizzard quest links anywhere.](https://github.com/Questie/Questie/issues/8218) 💬 3 | [Questie/Questie](https://github.com/Questie/Questie) | 1.2k | 🟢 beginner | 2026-11-21 |  |
 | [Drag line attack causes subs to target the water surface instead of floor allowing for overshoot](https://github.com/beyond-all-reason/Beyond-All-Reason/issues/10141) 💬 2 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4.4k | 🟢 beginner | 2026-11-17 | 🤖 disclose AI use · ✍️ CLA · [📘 guide](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/HEAD/CONTRIBUTING.md) |
